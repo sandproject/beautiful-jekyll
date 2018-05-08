@@ -493,9 +493,9 @@ footer .theme-by {
   font-weight: 400;
 }
 .intro-header.big-img .page-heading hr {
-  box-shadow: 1px 1px 3px #000;
-  -webkit-box-shadow: 1px 1px 3px #000;
-  -moz-box-shadow: 1px 1px 3px #000;
+  box-shadow: 1px 1px 3px #245075;
+  -webkit-box-shadow: 1px 1px 3px #245075;
+  -moz-box-shadow: 1px 1px 3px #245075;
 }
 .intro-header.big-img .post-heading .post-meta {
   color: #EEE;
