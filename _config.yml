@@ -26,10 +26,9 @@ navbar-links:
   About: "about"
   Papers: "papers"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Contact: "http://deanattali.com"
+    - Anycast TestBed: "http://www.anycast-testbed.com/contact"
+    - Verfploeter: "https://ant.isi.edu/software/verfploeter/index.html"
+  Contact: "contact"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
