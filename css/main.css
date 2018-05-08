@@ -37,10 +37,10 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/952340?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="daattali/beautiful-jekyll" /><meta property="og:url" content="https://github.com/daattali/beautiful-jekyll" /><meta property="og:description" content=":sparkles: Build a beautiful and simple website in literally minutes. Demo at http://deanattali.com/beautiful-jekyll" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjczODE3MjgxOjE1YzIwNzA3ZWFmOWU0YTdkZThjYTYzZmFhNmRhMzFkMjdiYzc0NzZiZjIyMjZmZjU1OWU0N2FmMDYwZWRkMGI=--b6ae280bf47fd42e47a7cff861da01ab74db30a7">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjczODE3MjgxOmNkMzc3MTk5NTFlZDRiZTZkM2IwMWU4Y2M3ZDU0Y2VmYWM0MTNiMDZiOTkyNzVkODQxNTc5NTcxZjAzMzcyMDg=--0322cdee312418a905fa6f1fff3009441362cdad">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="FA20:50CA:6A4DA6:CA76AA:5AF1A54E" data-pjax-transient>
+  <meta name="request-id" content="FDCF:50CB:8DD5C2:1047FD0:5AF1A6FF" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="FA20:50CA:6A4DA6:CA76AA:5AF1A54E" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="38462440" /><meta name="octolytics-actor-login" content="sandproject" /><meta name="octolytics-actor-hash" content="fc39148e4759128219649b6feebf207c2ac879d1525a0a4d8d2dc4dbfcecc526" />
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="FDCF:50CB:8DD5C2:1047FD0:5AF1A6FF" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="38462440" /><meta name="octolytics-actor-login" content="sandproject" /><meta name="octolytics-actor-hash" content="fc39148e4759128219649b6feebf207c2ac879d1525a0a4d8d2dc4dbfcecc526" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -67,7 +67,7 @@
     <meta name="user-login" content="sandproject">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZmNjM2QyMDdkZDE3YWE0NjYzYmQyOTQ3NmVmZTI2YjUzOWQxM2E3YzJiZjFhODlkNzIxMzI3ZjY0NWNjYjczOHx7InJlbW90ZV9hZGRyZXNzIjoiMTMwLjg5LjI4LjE0NiIsInJlcXVlc3RfaWQiOiJGQTIwOjUwQ0E6NkE0REE2OkNBNzZBQTo1QUYxQTU0RSIsInRpbWVzdGFtcCI6MTUyNTc4NTk0NywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="YTQyNTI0MjZmYzJmMDNiYzdjODkwNzU1M2JmZWVlMTlkZWUwNmNmZmY3OTg0ZDYwY2U1MzUzNjFmZTc0ZDBhNHx7InJlbW90ZV9hZGRyZXNzIjoiMTMwLjg5LjI4LjE0NiIsInJlcXVlc3RfaWQiOiJGRENGOjUwQ0I6OERENUMyOjEwNDdGRDA6NUFGMUE2RkYiLCJ0aW1lc3RhbXAiOjE1MjU3ODYzNzIsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_SELF_SERVE,MARKETPLACE_FREE_APPS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,MARKETPLACE_MOBILE_CI,MOBILE_COMMENT_ACTIONS">
 
@@ -262,7 +262,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="J9byFTfUBmiWg16bprQJzgZGu5cA5SRnTPLnVWSUU7ZA93AJY6foBdDstaQohFi1N7W8tI8flUgRVSZI68N5dA==" />
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="e75Iqd6coNgRULqKxlMUOWNwYjOlVnqPCtz5Ax27Tuccn8q1iu9OtVc/UbVIY0VCUoNlECqsy6BXezgekuxkJQ==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -274,7 +274,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NraVjpETnjv9+/n7vInRtYotc+z+mFEcR3DvES6aaBtRlxeSxWBwVruUEsQyuYDOu950z3Fi4DMa1y4Moc1C2Q==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RBJt3yuEsMj0voTZk2lXPbTTC3MyM7ZHy223ckqLPfojM+/Df/depbLRb+YdWQZGhSAMUL3JB2iWynZvxdwXOA==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -310,7 +310,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="xq6DOrArAvO8IXbk+ohpfADaKJZUjYPetQGAHhOQyknnaGz1RMYlORyCBCR/V3zxYEAbCEDO/Rm5Jdu0gRnSMw==" />      <input type="hidden" name="repository_id" id="repository_id" value="31560300" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-autosubmit="true" data-remote="true" class="js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="G2a7zDUEa5aQ6xKJuMNTW1CnszFiQrdMZJhvSXCiGfs6oFQDwelMXDBIYEk9HEbWMD2Ar3YByYtovDTj4isBgQ==" />      <input type="hidden" name="repository_id" id="repository_id" value="31560300" class="form-control" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/daattali/beautiful-jekyll/subscription"
@@ -390,7 +390,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/daattali/beautiful-jekyll/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="a2n7bUKv9ol7DnWghDi/3I1xoGVsPwWW9Oq5935a4dW8N9WrM3rY/0eCQqExwh+as1m64yHuFJTK2dAvFyxDwA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/daattali/beautiful-jekyll/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="UOyctD3XgGFH+gX9OrLHuIHQKmavbjSQxqq377DWtL2HsrJyTAKuF3t2MvyPSGf+v/gw4OK/JZL4md432aAWqA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -405,7 +405,7 @@
           1,138
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/daattali/beautiful-jekyll/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Mp5sXVKqXBzu9aE9P4a7gH28KmPumVILX+U062MzqmEi3LOF/01I22k3IzToPTdtEi8rbLR2g8Exzx2MAIs09A==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/daattali/beautiful-jekyll/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="t8elCXxL2oEYFO3l3ZQUpzFJoZGofIX4B235U2MFfnqnhXrR0azORp/Wb+wKL5hKXtqgnvKTVDJpR9A0AL3g7w==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -424,7 +424,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/daattali/beautiful-jekyll/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="p9jYht9/br5HKli+hVM3XA+kCNRv1gFAClFuadZLJGolosgQxY2TGGQ/IzJDLAyeuSsVwo+CWtfOR4NV3gpRgg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/daattali/beautiful-jekyll/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="6Ryrnf4OOIeZXUKv4yM6g1fnl4n5VODWWfsRTMaISRdrZrsL5PzFIbpIOSMlXAFB4WiKnxkAu0Gd7fxwzsk8/w==" />
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -642,13 +642,13 @@
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/daattali/beautiful-jekyll/edit/master/css/main.css" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="sf353XRu2K9AKuzZXAFldvnZT4XfhIWT6WHqxKFUPxprBB7kc8fMhgFJNK4u/Z4M2izV2e6Vyv0CQ1UXISXT4A==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/daattali/beautiful-jekyll/edit/master/css/main.css" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="jeNDIxdoE5qp0OBB3GUI+YshxRUEoaBIAxYM2nPg8hhXGqQaEMEHs+izODaumfODqNRfSTWw7yboNLMJ85Ee4g==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/daattali/beautiful-jekyll/delete/master/css/main.css" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ymG3NQI98nF6M7LJ3t2JytoVXQpcMlfpFMG5k9x0cwu/eCv1c8CzhTmmQj3MBtPGIIC0aM0jfVzIudJ+1CtsqQ==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/daattali/beautiful-jekyll/delete/master/css/main.css" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="nLj894j2VSiOzUdpwS5SMYRpxaajvKaR/50Rfa4RF8PpoWA3+QsU3M1Yt53T9Qg9fvwsxDKtjCQj5XqQpk4IYQ==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete the file in your fork of this project" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -3881,7 +3881,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.38413s from unicorn-1093008595-8x0vk">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.32496s from unicorn-3408002256-3rp5m">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
