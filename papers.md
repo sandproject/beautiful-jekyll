@@ -16,31 +16,6 @@ nav-short: true
   }
 </style>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  
-  $(window).resize(function() {
-    setTimeout(function() {
-      $("#shiny-server-iframe")[0].contentWindow.postMessage('getHeight', '*');
-    }, 100);
-  });
-  $("#shiny-server-iframe").load(function() {
-    $("#shiny-server-iframe")[0].contentWindow.postMessage('getHeight', '*');
-  });
-  
-  window.addEventListener("message", function(event) {
-    if (event.origin !== "https://daattali.com") {
-      return;
-    }
-    var data = event.data.split(":");
-    if (data[0] == "height") {
-      $("#shiny-server-iframe")[0].height = data[1];
-    } else if (data[0] == "scroll-to") {
-      $('html, body').animate({ scrollTop : data[1]}, 500);
-    }
-  })
-});
-</script>
 
 <div style="font-size: 1px; color: transparent; height: 0;">
   Dean is an R-Shiny expert and consultant
