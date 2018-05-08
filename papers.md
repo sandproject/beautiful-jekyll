@@ -25,4 +25,3 @@ nav-short: true
   MSc in Bioinformatics, Bachelor of Computer Science.
 </div>
 
-<iframe id="shiny-server-iframe" src="https://daattali.com/shiny?iframe=1" scrolling="no" width="100%" height="1500"></iframe>
