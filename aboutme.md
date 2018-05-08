@@ -10,8 +10,9 @@ The project is a consortium consisting of: SIDN and SIDN Labs, NLnet Labs, and U
 
 Project timeline:
 
-	Abril-2018  to Mar-2020 - Phase3  
-	Nov-2016 to Nov-2017 - Phase2 
-	Nov-2014 to Nov-2016 - Phase1 
+Abril-2018  to Mar-2020 - Phase3  
+Nov-2016 to Nov-2017 - Phase2 
+Nov-2014 to Nov-2016 - Phase1 
+
 
 
