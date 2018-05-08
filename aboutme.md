@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: SAND Project
+subtitle:  Self-managing Anycast Networks for DNS
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+The Self-managing Anycast Networks for DNS (SAND) project aims at developing solution(s) for supporting the complex management of anycast DNS.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+The project is a consortium consisting of: SIDN and SIDN Labs, NLnet Labs, and University of Twente.
 
-What else do you need?
+Project timeline:
 
-### my history
+	Abril-2018  to Mar-2020 - Phase3  
+	Nov-2016 to Nov-2017 - Phase2 
+	Nov-2014 to Nov-2016 - Phase1 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
