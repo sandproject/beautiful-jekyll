@@ -263,7 +263,7 @@ img {
 footer {
   padding: 00px ;
   border-top: 1px #EAEAEA solid;
-  margin-top: 8px;
+  margin-top: 64px;
   font-size: 14px;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
