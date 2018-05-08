@@ -263,7 +263,7 @@ img {
 footer {
   padding: 00px ;
   border-top: 1px #EAEAEA solid;
-  margin-top: 64px;
+  margin-top: 100px;
   font-size: 14px;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
@@ -296,7 +296,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   footer .footer-links {
-    font-size: 18px;
+    font-size: 14px;
   }
   footer .copyright {
     font-size: 14px;
