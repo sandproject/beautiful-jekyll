@@ -12,14 +12,14 @@ subtitle:  Self-managing Anycast Networks for DNS
     </div>
   </div>
 
-  <div class="box b">Route Manipulation
+  <div class="box b">BGP Route Manipulation
       <div class="internal">
 	  manipulating BGP routes enable <br>
       to control the anycat site visibility <br>
     </div>
   </div>
   
-  <div class="box c"> Distribute Load
+  <div class="box c"> Site-Load Distribution
       <div class="internal">
       spreading a service over multiples sites enabling <br>
 	  to handle the traffic based on the site capabilities. <br>
