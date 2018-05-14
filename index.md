@@ -8,21 +8,21 @@ subtitle:  Self-managing Anycast Networks for DNS
 <div class="wrapper">
   <div class="box a"> Catchment
     <div class="internal">
-      Anycast Catchment simple refers to <br> 
-      then
+	  active monitoring anycast catchments <br> 
     </div>
   </div>
 
   <div class="box b">BGP
       <div class="internal">
-      Anycast Catchment simple refers to <br> 
-      then
+	  manipulating BGP routes enable <br>
+      to control the anycat site visibility <br>
     </div>
   </div>
   
-  <div class="box c">Monitoring
+  <div class="box c">
       <div class="internal">
-      Anycast Catchment simple refers to <br> 
+      spreading a service over multiples sites enabling <br>
+	  to handle the traffic based on the site capabilities. <br>
       then
     </div>
   </div>
