@@ -28,10 +28,8 @@ subtitle:  Self-managing Anycast Networks for DNS
   </div>
 </div>
 
-
-
 <hr>
-
+SAND is a joint project:
 <div class="wrapper">
   <div class="box a">
    <a href="http://www.utwente.nl/"><img src="/img/twente.png"></a>
@@ -43,7 +41,7 @@ subtitle:  Self-managing Anycast Networks for DNS
     padrociono
   </div>
 </div>
-
+<hr>
 The Self-managing Anycast Networks for DNS (SAND) project aims at developing solution(s) for supporting the complex management of anycast DNS.
 
 The project is a consortium consisting of: SIDN and SIDN Labs, NLnet Labs, and University of Twente.
