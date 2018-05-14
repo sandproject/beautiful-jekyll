@@ -34,7 +34,7 @@ subtitle:  Self-managing Anycast Networks for DNS
 
 <div class="wrapper">
   <div class="box a">
-    padrociono
+   <a href="http://www.utwente.nl/"><img src="/img/twente.png"></a>
   </div>
    <div class="box b">
     padrociono
