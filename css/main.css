@@ -798,3 +798,11 @@ td.gutter {
     overflow-x: auto; 
 }
 
+
+.wrapper-sponsor {
+	display: grid;
+	grid-gap: 10px; width:100px;
+    grid-template-columns: 200px 200px 200px;
+    background-color: #fff;
+    color: #444;
+}
