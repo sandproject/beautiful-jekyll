@@ -773,20 +773,28 @@ td.gutter {
   font-size: 16px;
 }
 
-
 .wrapper {
-  display: grid;
   grid-template-columns: 200px 200px 200px;
   grid-gap: 10px;
-  background-color: #cecece;
-  color: #444;
+  background-color: #FFF;
+  color: #245075;
+  display: flex;
+  justify-content: space-between;
+  text-align:justify;
 }
 
 .box {
-  background-color: #444;
-  color: #999;
+  background-color: #e6e6e6;
   border-radius: 5px;
   padding: 20px;
   font-size: 150%;
-  align-self: center;
+  text-align: center;
 }
+
+.internal {
+    font-size: 13px;
+    padding-top:20px;
+    color: black;
+    overflow-x: auto; 
+}
+
