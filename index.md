@@ -3,8 +3,13 @@ layout: page
 title: SAND Project
 subtitle:  Self-managing Anycast Networks for DNS
 ---
- main 
 
+
+<div class="wrapper">
+  <div class="box a">DNS</div>
+  <div class="box b">BGP</div>
+  <div class="box c">Monitoring</div>
+</div>
 The Self-managing Anycast Networks for DNS (SAND) project aims at developing solution(s) for supporting the complex management of anycast DNS.
 
 The project is a consortium consisting of: SIDN and SIDN Labs, NLnet Labs, and University of Twente.
@@ -17,11 +22,6 @@ Nov-2014 to Nov-2016 - Phase1
 
 
 
-<div class="wrapper">
-  <div class="box a">DNS</div>
-  <div class="box b">BGP</div>
-  <div class="box c">Monitoring</div>
-</div>
 
 
 
