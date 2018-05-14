@@ -29,16 +29,16 @@ subtitle:  Self-managing Anycast Networks for DNS
 </div>
 
 <hr>
-SAND is a joint project:
+<h3>SAND is a joint project:</h3>:
 <div class="wrapper">
   <div class="box a">
    <a href="http://www.utwente.nl/"><img src="/img/twente.png"></a>
   </div>
    <div class="box b">
-    padrociono
+   <a href="http://www.sidn.nl/"><img src="/img/sidn-logo.png"></a>
   </div>
    <div class="box c">
-    padrociono
+   <a href="http://www.nlnetlab.nl/"><img src="/img/nlnetlab.png"></a>
   </div>
 </div>
 <hr>
