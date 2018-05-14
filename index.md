@@ -19,7 +19,7 @@ subtitle:  Self-managing Anycast Networks for DNS
     </div>
   </div>
   
-  <div class="box c">
+  <div class="box c"> Distribute Load
       <div class="internal">
       spreading a service over multiples sites enabling <br>
 	  to handle the traffic based on the site capabilities. <br>
