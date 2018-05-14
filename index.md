@@ -6,13 +6,13 @@ subtitle:  Self-managing Anycast Networks for DNS
 
 
 <div class="wrapper">
-  <div class="box a"> Catchment
+  <div class="box a"> Anycast Catchment
     <div class="internal">
 	  active monitoring anycast catchments <br> 
     </div>
   </div>
 
-  <div class="box b">BGP
+  <div class="box b">Route Manipulation
       <div class="internal">
 	  manipulating BGP routes enable <br>
       to control the anycat site visibility <br>
