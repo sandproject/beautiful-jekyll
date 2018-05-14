@@ -29,7 +29,7 @@ subtitle:  Self-managing Anycast Networks for DNS
 </div>
 
 <hr>
-<h3>SAND is a joint project:</h3>:
+<h6>SAND is a joint project:</h6>
 <div class="wrapper">
   <div class="box a">
    <a href="http://www.utwente.nl/"><img src="/img/twente.png"></a>
