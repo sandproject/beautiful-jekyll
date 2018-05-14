@@ -776,9 +776,9 @@ td.gutter {
 
 .wrapper {
   display: grid;
-  grid-template-columns: 100px 100px 100px;
+  grid-template-columns: 200px 200px 200px;
   grid-gap: 10px;
-  background-color: #fff;
+  background-color: #cecece;
   color: #444;
 }
 
