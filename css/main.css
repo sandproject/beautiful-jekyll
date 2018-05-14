@@ -774,10 +774,6 @@ td.gutter {
 }
 
 
-body {
-  margin: 40px;
-}
-
 .wrapper {
   display: grid;
   grid-template-columns: 100px 100px 100px;
@@ -788,7 +784,7 @@ body {
 
 .box {
   background-color: #444;
-  color: #fff;
+  color: #999;
   border-radius: 5px;
   padding: 20px;
   font-size: 150%;

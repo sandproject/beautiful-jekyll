@@ -18,12 +18,9 @@ Nov-2014 to Nov-2016 - Phase1
 
 
 <div class="wrapper">
-  <div class="box a">AA</div>
-  <div class="box b">B</div>
-  <div class="box c">C</div>
-  <div class="box d">D</div>
-  <div class="box e">E</div>
-  <div class="box f">F</div>
+  <div class="box a">DNS</div>
+  <div class="box b">BGP</div>
+  <div class="box c">Monitoring</div>
 </div>
 
 
