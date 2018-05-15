@@ -7,7 +7,8 @@ title: SAND Project
 <hr>
 <h4 style="text-align:center; margin:5%">The SAND team perform applied
 research in Anycast services aiming to provide tools and
-recomendations for anycast DNS operators. </h4>
+recomendations for DNS operators. </h4>
+
 <hr>
 <div class="container-fluid">
 <div class="col-sm-12 col-sm-offset-0"> 
@@ -25,7 +26,7 @@ recomendations for anycast DNS operators. </h4>
             Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
         </div>
         <div class="col-md-4 col-sm-4">
-            <img src="http://placehold.it/150/ffa500/ffffff/?text=Service%203" alt="" class="img-circle img-thumbnail">
+            <img src="/img/load.svg" alt="" class="img-circle img-thumbnail">
             <h3 class="h3-color">Load Distribution</h3>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
             Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
@@ -34,11 +35,7 @@ recomendations for anycast DNS operators. </h4>
 </div>
 </div>
 
-<hr>
-<p> <b>The goal of SAND Project is to develop tools for operators of 
-anycast services.</b>
-<hr>
-
+<p>
  <br> That enable operators to optimize
 performance and handle the initial impact of DDoS attacks until proper
 traffic filtering is put in place. </p>
