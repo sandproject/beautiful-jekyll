@@ -14,7 +14,7 @@ recomendations for DNS operators. </h4>
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
    		<div class="col-md-4 col-sm-4">
-            <img src="/img/location.svg" width: 90% ; height: auto; alt="" class="img-circle img-thumbnail">
+            <img src="/img/location.svg" width="90%" height="90%" alt="img banner" class="img-circle img-thumbnail">
             <h3 style="color:#245075">Anycast Catchment</h3>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
             Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
