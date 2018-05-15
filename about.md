@@ -41,17 +41,6 @@ Nov-2014 to Nov-2016 - Phase1
 
 
 
-<div class="border-bottom l-pad-bottom-10">
-  <div class="headline">
-    <div class="flex-1 title">
-      Customer Friendly Pricing
-    </div>
-    <a href="https://cloud.google.com/pricing/principles"
-       class="link is-hidden-tablet-large">
-      learn more
-    </a>
-  </div>
-
 
 <div class="col-xs-6">
   <div class="row">
