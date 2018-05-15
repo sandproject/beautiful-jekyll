@@ -31,8 +31,8 @@ subtitle:  Self-managing Anycast Networks for DNS
 </div>
 
 <hr>
-<h4>The goal of SAND Project is to develop tools for operators of
-anycast services</h4>
+<h4 style="text-align:center">The goal of SAND Project is to develop tools for operators of
+anycast services.</h4>
 <p> <b>The goal of SAND Project is to develop tools for operators of 
 anycast services</b>. <br> That enable operators to optimize
 performance and handle the initial impact of DDoS attacks until proper
