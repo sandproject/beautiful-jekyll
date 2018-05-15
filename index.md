@@ -35,7 +35,7 @@ anycast DNS.
 </div>
 
 <div class="container-fluid">
-<div class="col-sm-10 col-sm-offset-3"> 
+<div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
         <div class="col-md-4 col-sm-4">
             <img src="http://placehold.it/150/ffa500/ffffff/?text=Service%201" alt="" class="img-circle img-thumbnail">
