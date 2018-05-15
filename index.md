@@ -32,7 +32,10 @@ subtitle:  Self-managing Anycast Networks for DNS
 
 <hr>
 
-<p> The goal of SAND-3 is to develop, prototype, and evaluate an intelligent and measurement-based recommendation tool for operators of anycast services that enables them to manage their DNS anycast network in real-time, for instance to optimize performance and handle the initial impact of DDoS attacks until proper traffic filtering is put in place. </p>
+<p> <b>The goal of SAND Project is to develop tools for operators of 
+anycast services</b>. <br> That enable operators to optimize
+performance and handle the initial impact of DDoS attacks until proper
+traffic filtering is put in place. </p>
 
 <h6>SAND is a joint project:</h6>
 <div class="container-fluid" style="margin: 0% 25% 0% 25%">
