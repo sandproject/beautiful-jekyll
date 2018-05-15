@@ -16,20 +16,18 @@ recomendations for DNS operators. </h4>
    		<div class="col-md-4 col-sm-4">
             <img src="/img/location.svg" width="90%" height="90%" alt="img banner" class="img-circle img-thumbnail">
             <h3 style="color:#245075">Anycast Catchment</h3>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+			<p> Catchment refers to the nerarby anycast site from the perspective of each user. Active monitoring the
+			view of the anycast sites is possible to use the historical graph to predict future load. </p>
         </div>
         <div class="col-md-4 col-sm-4">
             <img src="/img/bgp.svg" alt="" width="90%" height="90%" class="img-circle img-thumbnail">
             <h3 class="h3-color">BGP Route Manipulation</h3>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+            <p>By manipulate the BGP routes from the anycast website it is possible to modify each site visibility, for example, by using preprend directive in the BGP routing announces. </p>
         </div>
         <div class="col-md-4 col-sm-4">
             <img src="/img/load.svg" alt="" width="90%" height="90%" class="img-circle img-thumbnail">
             <h3 class="h3-color">Load Distribution</h3>
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
-            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+            <p>Based on system load, it is possible to redirect traffic from one site to another in order to mitigate a DDoS attack. </p>
         </div>
 	</div>
 </div>
