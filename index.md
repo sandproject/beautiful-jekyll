@@ -20,13 +20,13 @@ recomendations for DNS operators. </h4>
             Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
         </div>
         <div class="col-md-4 col-sm-4">
-            <img src="/img/bgp.svg" alt="" class="img-circle img-thumbnail">
+            <img src="/img/bgp.svg" alt="" width="90%" height="90%" class="img-circle img-thumbnail">
             <h3 class="h3-color">BGP Route Manipulation</h3>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
             Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
         </div>
         <div class="col-md-4 col-sm-4">
-            <img src="/img/load.svg" alt="" class="img-circle img-thumbnail">
+            <img src="/img/load.svg" alt="" width="90%" height="90%" class="img-circle img-thumbnail">
             <h3 class="h3-color">Load Distribution</h3>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
             Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
