@@ -4,7 +4,7 @@ title: SAND Project
 subtitle:  Self-managing Anycast Networks for DNS
 ---
 
-
+<div class="col-xs-6">
 <div class="wrapper">
   <div class="box a"> Anycast Catchment
     <div class="internal">
@@ -32,7 +32,7 @@ The Self-managing Anycast Networks for DNS (SAND) project aims at
 developing solution(s) for supporting the complex management of
 anycast DNS.
 <br>
-
+</div>
 <div class="wrapper">
 <div class="col-sm-10 col-sm-offset-3"> 
 	<div class="row text-center"><br>
