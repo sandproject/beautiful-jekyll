@@ -33,7 +33,8 @@ developing solution(s) for supporting the complex management of
 anycast DNS.
 <br>
 </div>
-<div class="wrapper">
+
+<div class="container">
 <div class="col-sm-10 col-sm-offset-3"> 
 	<div class="row text-center"><br>
         <div class="col-md-4 col-sm-4">
