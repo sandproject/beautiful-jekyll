@@ -32,6 +32,30 @@ The Self-managing Anycast Networks for DNS (SAND) project aims at
 developing solution(s) for supporting the complex management of
 anycast DNS.
 
+<div class="container">
+	<div class="row text-center"><br>
+        <div class="col-md-4 col-sm-4">
+            <img src="http://placehold.it/150/ffa500/ffffff/?text=Service%201" alt="" class="img-circle img-thumbnail">
+            <h3>Our Services</h3>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        </div>
+        <div class="col-md-4 col-sm-4">
+            <img src="http://placehold.it/150/ffa500/ffffff/?text=Service%202" alt="" class="img-circle img-thumbnail">
+            <h3>Our Services</h3>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        </div>
+        <div class="col-md-4 col-sm-4">
+            <img src="http://placehold.it/150/ffa500/ffffff/?text=Service%203" alt="" class="img-circle img-thumbnail">
+            <h3>Our Services</h3>
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
+            Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+        </div>
+	</div>
+</div>
+
+
 <hr>
 <p>SAND is a joint project:</p>
 <div class="wrapper-sponsor">
