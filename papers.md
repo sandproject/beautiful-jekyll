@@ -1,27 +1,19 @@
 ---
-layout: base
-title: "Dean Attali - R-Shiny Consultant"
-subtitle: "R-Shiny developer and consultant with a MSc in Bioinformatics and a Bachelor of Computer Science. Previously a software engineer at Google, IBM, and Wish.com."
-show-avatar: false
-nav-short: true
+layout: page
+title: SAND Project
+subtitle:  Self-managing Anycast Networks for DNS
 ---
 
-<style>
-  footer {
-    margin-top: -10px;
-  }
-  #shiny-server-iframe {
-    margin-top: 51px;
-    border: 0 none;
-  }
-</style>
+
+W. B. de Vries, R. de O. Schmidt, W. Hardaker, J. Heidemann, P.-T. de Boer and A. Pras. Broad and Load-Aware Anycast Mapping with Verfploeter. ACM Internet Measurement Conference (IMC), London, UK, 2017. [pdf] [doi]
+
+M. MÃ¼ller, G. C. M. Moura, R. de O. Schmidt and J. Heidemann. Recursives in the Wild: Engineering Authoritatives DNS Servers. ACM Internet Measurement Conference (IMC), London, UK, 2017. [pdf] [doi]
 
 
-<div style="font-size: 1px; color: transparent; height: 0;">
-  Dean is an R-Shiny expert and consultant
-  Services include: Building Shiny apps and analytics dashboards â¢ Integrating Shiny apps with external services or libraries â¢ Offering expert advice and guidance with Shiny
-  Clients range from individuals to startups to large companies and government agencies.
-  Previously a software engineer at Google and top San Francisco startup Wish.com
-  MSc in Bioinformatics, Bachelor of Computer Science.
-</div>
+R. de O. Schmidt, J. Heidemann and J. H. Kuipers. Anycast Latency: How Many Sites Are Enough? Passive and Active Measurement (PAM) conference, Sydney, Australia, pp 188-200, LNCS 10176, 2017. [pdf] [doi] - BEST PAPER AWARD!
+
+G. C. M. Moura, R. de O. Schmidt, J. Heidemann, W. B. de Vries, M. MÃ¼ller, L. Wei and C. Hesselman. Anycast vs. DDoS: Evaluating the November 2015 Root DNS Event. ACM Internet Measurement Conference (IMC), Santa Monica, USA, pp 255-270, 2016. [pdf] [doi]
+
+W. de Vries, R. de O. Schmidt and A. Pras. Anycast and its potential for DDoS mitigation. 10th International conference on Autonomous Infrastructure Management and Security (AIMS), PhD student workshop. Munich, Germany, pp 147-151, LNCS 9701, 2016. [pdf] [doi]
+
 
