@@ -16,7 +16,7 @@ subtitle:  Self-managing Anycast Networks for DNS
         </div>
         <div class="col-md-4 col-sm-4">
             <img src="http://placehold.it/150/ffa500/ffffff/?text=Service%202" alt="" class="img-circle img-thumbnail">
-            <h3>BGP Route Manipulation</h3>
+            <h3 class="h3-color">BGP Route Manipulation</h3>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
             Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
         </div>
