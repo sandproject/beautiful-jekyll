@@ -15,7 +15,6 @@ Nov-2016 to Nov-2017 - Phase2
 Nov-2014 to Nov-2016 - Phase1 
 
 
-
 <div class="col-xs-6">
   <div class="row">
     <div class="col-xs-4">Column 1-a</div>
@@ -28,3 +27,5 @@ Nov-2014 to Nov-2016 - Phase1
     <div class="col-xs-10">Column 2-b</div>
   </div>
 </div>
+
+
