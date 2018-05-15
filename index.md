@@ -34,7 +34,7 @@ anycast DNS.
 <br>
 </div>
 
-<div class="container">
+<div class="container-fluid">
 <div class="col-sm-10 col-sm-offset-3"> 
 	<div class="row text-center"><br>
         <div class="col-md-4 col-sm-4">
