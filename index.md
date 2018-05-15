@@ -38,6 +38,7 @@ anycast services</b>. <br> That enable operators to optimize
 performance and handle the initial impact of DDoS attacks until proper
 traffic filtering is put in place. </p>
 
+<hr>
 <h6>SAND is a joint project:</h6>
 <div class="container-fluid" style="margin: 0% 25% 0% 25%">
 <div class="col-sm-12 col-sm-offset-0"> 
