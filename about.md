@@ -20,20 +20,20 @@ Nov-2014 to Nov-2016 - Phase1
     <hr>
     <div class="row">
         <div class="col-sm-6">
-           <img src="http://placehold.it/600x400" alt="" class="img-responsive center-block">
+           teste
         </div>
         <div class="row col-sm-6">
             <div class="col-xs-6">
-              <img src="http://placehold.it/300x205" alt="" class="img-responsive">
+              teste2
             </div>
             <div class="col-xs-6">
-              <img src="http://placehold.it/300x205" alt="" class="img-responsive">
+              teste3
             </div>
             <div class="col-xs-6">
-              <img src="http://placehold.it/300x205" alt="" class="img-responsive">
+				teste4
             </div>
             <div class="col-xs-6">
-              <img src="http://placehold.it/300x205" alt="" class="img-responsive">
+              teste5
             </div>
         </div>
     </div>
