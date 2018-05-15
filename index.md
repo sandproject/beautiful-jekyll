@@ -4,7 +4,7 @@ title: SAND Project
 subtitle:  Self-managing Anycast Networks for DNS
 ---
 
-<div class="col-xs-6">
+
 <div class="wrapper">
   <div class="box a"> Anycast Catchment
     <div class="internal">
