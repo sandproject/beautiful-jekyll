@@ -27,11 +27,11 @@ subtitle:  Self-managing Anycast Networks for DNS
     </div>
   </div>
 </div>
-
+<br>
 The Self-managing Anycast Networks for DNS (SAND) project aims at
 developing solution(s) for supporting the complex management of
 anycast DNS.
-
+<br>
 
 <div class="col-sm-8 col-sm-offset-3">
 	<div class="row text-center"><br>
