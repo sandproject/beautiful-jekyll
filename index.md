@@ -32,7 +32,7 @@ subtitle:  Self-managing Anycast Networks for DNS
 
 <hr>
 
-<h3>SAND is a joint project:</h3>
+<h6>SAND is a joint project:</h6>
 <div class="container-fluid" style="margin:10%">
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
