@@ -1,10 +1,10 @@
 ---
 layout: page
 title: SAND Project
-subtitle:  Self-managing Anycast Networks for DNS
+#subtitle:  Self-managing Anycast Networks for DNS
 ---
 
-<h4 style="text-align:center">The goal of SAND Project is to develop tools for operators of
+<h4 style="text-align:center; margin:5%">The goal of SAND Project is to develop tools for operators of
 anycast services.</h4>
 
 <div class="container-fluid">
