@@ -30,7 +30,7 @@ Nov-2014 to Nov-2016 - Phase1
 
 
 <div class="container" >
-	<div class="row text-center"  style="background-color: lightblue;"><br>
+	<div class="row text-center"  style="background-color: lightblue;margin:10px 30px 10px 30px"><br>
 	
 	
         <div class="col-md-4 col-sm-4" >
@@ -55,5 +55,3 @@ Nov-2014 to Nov-2016 - Phase1
 	</div>
 	teste
 </div>
-
-
