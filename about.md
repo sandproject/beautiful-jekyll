@@ -15,6 +15,11 @@ Nov-2016 to Nov-2017 - Phase2
 Nov-2014 to Nov-2016 - Phase1 
 
 
+<div class="row">
+  <div class="col-md-4">.col-md-4</div>
+  <div class="col-md-4 col-md-offset-4">.col-md-4 .col-md-offset-4</div>
+</div>
+
 <div class="container-fluid">
 
   <div class="row">
