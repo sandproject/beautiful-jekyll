@@ -5,39 +5,10 @@ subtitle:  Self-managing Anycast Networks for DNS
 ---
 
 
-<div class="wrapper">
-  <div class="box a"> Anycast Catchment
-    <div class="internal">
-	  active monitoring anycast catchments <br> 
-    </div>
-  </div>
-
-  <div class="box b">BGP Route Manipulation
-      <div class="internal">
-	  manipulating BGP routes enable <br>
-      to control the anycat site visibility <br>
-    </div>
-  </div>
-  
-  <div class="box c"> Site-Load Distribution
-      <div class="internal">
-      spreading a service over multiples sites enabling <br>
-	  to handle the traffic based on the site capabilities. <br>
-      then
-    </div>
-  </div>
-</div>
-<br>
-The Self-managing Anycast Networks for DNS (SAND) project aims at
-developing solution(s) for supporting the complex management of
-anycast DNS.
-<br>
-</div>
-
 <div class="container-fluid">
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
-        <div class="col-md-4 col-sm-4">
+   		<div class="col-md-4 col-sm-4">
             <img src="http://placehold.it/150/ffa500/ffffff/?text=Service%201" alt="" class="img-circle img-thumbnail">
             <h3 style="text-color=#245075">Anycast Catchment</h3>
             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
