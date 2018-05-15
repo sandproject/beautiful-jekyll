@@ -33,6 +33,7 @@ subtitle:  Self-managing Anycast Networks for DNS
 <hr>
 
 <div class="container-fluid">
+<h4><p>SAND is a joint project:</p> </h4>
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
    		<div class="col-md-4 col-sm-4">
@@ -47,19 +48,5 @@ subtitle:  Self-managing Anycast Networks for DNS
 	</div>
 </div>
 </div>
-
-<p>SAND is a joint project:</p>
-<div class="wrapper-sponsor">
-  <div class="box a">
-  </div>
-   <div class="box b">
-   <a href="http://www.sidn.nl/"><img src="/img/sidn-logo.png"></a>
-  </div>
-   <div class="box c">
-   <a href="https://nlnetlabs.nl/"><img src="/img/nlnetlab.png"></a>
-  </div>
-</div>
-<hr>
-
 
 
