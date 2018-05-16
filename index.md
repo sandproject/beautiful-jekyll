@@ -26,8 +26,8 @@ recomendations for DNS operators. </h4>
         </div>
         <div class="col-md-4 col-sm-4">
             <img src="/img/load.svg" alt="" width="90%" height="90%" class="img-circle img-thumbnail">
-            <h3 class="h3-color">Load Distribution</h3>
-            <p>Assist operators to accurately distribute the traffic load across sites is fundamental to develop a defense strategy during an attack.</p>
+            <h3 class="h3-color">Load <br>Distribution</h3>
+            <p>Assist operators to accurately distribute the traffic load across sites is fundamental to develop a defense strategy.</p>
         </div>
 	</div>
 </div>
