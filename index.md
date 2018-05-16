@@ -16,30 +16,36 @@ recomendations for DNS operators. </h4>
    		<div class="col-md-4 col-sm-4">
             <img src="/img/location.svg" width="90%" height="90%" alt="img banner" class="img-circle img-thumbnail">
             <h3 style="color:#245075">Anycast Catchment</h3>
-		<!--	<p> Catchment refers to the nearby anycast site from the perspective of each user. -->
-			<p>Active monitoring the
-			view of the anycast sites enable to use the historical graph to predict future load. </p>
+			<!--	<p> Catchment refers to the nearby anycast site from the perspective of each user. -->
+			<p>Active monitoring the visibility of the anycast sites enable to use the historical graph to predict future load.</p>
         </div>
         <div class="col-md-4 col-sm-4">
             <img src="/img/bgp.svg" alt="" width="90%" height="90%" class="img-circle img-thumbnail">
             <h3 class="h3-color">BGP Route Annouces</h3>
-	    <p>Modify BGP routes announces enables to modity each site
-	    visibility and redirect traffic from one site to another.
-			</p>
+	        <p> Modify BGP route announces enables to change each site visibility and redirect traffic from one site to another. </p>
         </div>
         <div class="col-md-4 col-sm-4">
             <img src="/img/load.svg" alt="" width="90%" height="90%" class="img-circle img-thumbnail">
             <h3 class="h3-color">Load Distribution</h3>
-            <p>Assist operators to accuratelly distribute the traffic load across sites is fundamental to develop an defense strategy during an attack. </p>
+            <p>Assist operators to accurately distribute the traffic load across sites is fundamental to develop a defense strategy during an attack.</p>
         </div>
 	</div>
 </div>
 </div>
 
 <p>
- <br> That enable operators to optimize
-performance and handle the initial impact of DDoS attacks until proper
-traffic filtering is put in place. </p>
+
+The problem that SAND address is that DNS operators have very few
+intelligent real-time tools that enable them to monitor their anycast
+services, for instance during a DDoS attack. Based on that, the
+research goal is to develop, prototype and evaluate tools and
+recommendations for anycast system operators. An essential part of the
+project is to active investigate anycast site visibility by
+understanding of the dynamic relationship between Internet routing
+(BGP) and anycast services. To accurately map the anycast sites
+visibility from the client perspective enables operators to carefully
+manage their systems and assisting in attacks response.
+
 
 <hr>
 <h6>SAND is a joint project:</h6>
