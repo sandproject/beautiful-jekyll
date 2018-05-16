@@ -36,12 +36,11 @@ recomendations for DNS operators. </h4>
 <p style="text-align:justify">
 The problem that SAND address is that DNS operators have very few
 intelligent real-time tools that enable them to monitor their anycast
-services, for instance during a DDoS attack. <br> 
-Our goal is to develop, prototype and evaluate tools and
-recommendations for anycast system operators. An essential part of the
-project is to active investigate anycast site visibility by
-understanding of the dynamic relationship between Internet routing
-(BGP) and anycast services. 
+services, for instance during a DDoS attack.  Our goal is to develop,
+prototype and evaluate tools and recommendations for anycast system
+operators. <br> An essential part of the project is to active
+investigate anycast site visibility by understanding of the dynamic
+relationship between Internet routing (BGP) and anycast services.
 
 <br> To accurately map the anycast sites visibility from the client
 perspective enables operators to carefully manage their systems and
