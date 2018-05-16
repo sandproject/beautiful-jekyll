@@ -9,7 +9,7 @@ subtitle:  Self-managing Anycast Networks for DNS
 
 ##  Problem:
 
-The problem that SAND-3 addresses is that DNS operators have very few
+The problem that SAND addresses is that DNS operators have very few
 intelligent real-time tools that enable them to monitor their anycast
 services, for instance during a DDoS attack. The importance of proper
 and informed management of anycast services has been highlighted by
@@ -28,7 +28,7 @@ performance of the targeted service.
 
 ## Goal:
 
-The goal of SAND-3 is to develop, prototype, and evaluate an
+The goal of SAND is to develop, prototype, and evaluate an
 intelligent and measurement-based recommendation tool for operators of
 anycast services that enables them to manage their DNS anycast network
 in real-time, for instance to optimize performance and handle the
@@ -39,6 +39,6 @@ in place.
 ## Results:
 
 * A comprehensive study of the relationship between Internet routing and anycast services (latency and catchment). 
-* A prototype of the SAND-3 anycast recommendation tool, which helps anycast operators to understand and manage the impacts of traffic load and anycast deployment (e.g., anycast instance addition or removal, and routing policies change) modifications to the anycast service operation.
+* A prototype of the SAND anycast recommendation tool, which helps anycast operators to understand and manage the impacts of traffic load and anycast deployment (e.g., anycast instance addition or removal, and routing policies change) modifications to the anycast service operation.
 * Visualization tools (e.g., statistics, graphs) based on the recommendation tool to support the operation and management of anycast deployments.
 
