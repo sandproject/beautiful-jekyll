@@ -13,6 +13,7 @@ For more information on the SAND project, please contact:
         </a>
       </p>
 <h4> Joao Marcelo Ceron </h4>
+<i class="fa fa-globe" style="font-size:24px"></i>
 
 
 
