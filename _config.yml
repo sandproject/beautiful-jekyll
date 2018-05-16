@@ -26,7 +26,7 @@ navbar-links:
   About: "about"
   Papers: "papers"
   Resources:
-    - Anycast TestBed: "http://www.anycast-testbed.com/contact"
+    - Anycast TestBed: "http://www.anycast-testbed.com/"
     - Verfploeter: "https://ant.isi.edu/software/verfploeter/index.html"
   Contact: "contact"
 
