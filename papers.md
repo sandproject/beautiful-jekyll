@@ -6,6 +6,9 @@ title: Papers
 
 W. B. de Vries, R. de O. Schmidt, W. Hardaker, J. Heidemann, P.-T. de Boer and A. Pras. Broad and Load-Aware Anycast Mapping with Verfploeter. ACM Internet Measurement Conference (IMC), London, UK, 2017. [doi](https://doi.org/10.1145/3131365.3131371)
 
+[<img src="/img/doi.png">](http://google.com.au/)
+
+
 M. MÃ¼ller, G. C. M. Moura, R. de O. Schmidt and J. Heidemann. Recursives in the Wild: Engineering Authoritatives DNS Servers. ACM Internet Measurement Conference (IMC), London, UK, 2017. [doi](https://doi.org/10.1145/3131365.3131366)
 
 
