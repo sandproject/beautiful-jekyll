@@ -22,8 +22,10 @@ recomendations for DNS operators. </h4>
         </div>
         <div class="col-md-4 col-sm-4">
             <img src="/img/bgp.svg" alt="" width="90%" height="90%" class="img-circle img-thumbnail">
-            <h3 class="h3-color">BGP Route Manipulation</h3>
-            <p>By manipulate the BGP routes from the anycast website it is possible to modify each site visibility, for example, by using preprend directive in the BGP routing announces. </p>
+            <h3 class="h3-color">BGP Route Annouces</h3>
+	    <p>Modify BGP routes announces enables to modity each site
+	    visibility and redirect traffic from one site to another.
+			</p>
         </div>
         <div class="col-md-4 col-sm-4">
             <img src="/img/load.svg" alt="" width="90%" height="90%" class="img-circle img-thumbnail">
