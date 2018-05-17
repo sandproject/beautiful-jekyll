@@ -6,7 +6,7 @@ title: Papers
 
 W. B. de Vries, R. de O. Schmidt, W. Hardaker, J. Heidemann, P.-T. de Boer and A. Pras. Broad and Load-Aware Anycast Mapping with Verfploeter. ACM Internet Measurement Conference (IMC), London, UK, 2017. [pdf](https://conferences.sigcomm.org/imc/2017/papers/imc17-final46.pdf) [<img src="/img/doi.png">](https://doi.org/10.1145/3131365.3131371)
 
-M. MÃ¼ller, G. C. M. Moura, R. de O. Schmidt and J. Heidemann. Recursives in the Wild: Engineering Authoritatives DNS Servers. ACM Internet Measurement Conference (IMC), London, UK, 2017. [pdf](https://conferences.sigcomm.org/imc/2017/papers/imc17-final12.pdf) [<img src="/img/doi.png">](https://doi.org/10.1145/3131365.3131366)
+M. M&uuml;ller, G. C. M. Moura, R. de O. Schmidt and J. Heidemann. Recursives in the Wild: Engineering Authoritatives DNS Servers. ACM Internet Measurement Conference (IMC), London, UK, 2017. [pdf](https://conferences.sigcomm.org/imc/2017/papers/imc17-final12.pdf) [<img src="/img/doi.png">](https://doi.org/10.1145/3131365.3131366)
 
 R. de O. Schmidt, J. Heidemann and J. H. Kuipers. Anycast Latency: How Many Sites Are Enough? Passive and Active Measurement (PAM) conference, Sydney, Australia, pp 188-200, LNCS 10176, 2017. [pdf](http://wwwhome.cs.utwente.nl/~schmidtr/docs/pam2017schmidt.pdf) [<img src="/img/doi.png">](https://link.springer.com/chapter/10.1007%2F978-3-319-54328-4_14)
 
