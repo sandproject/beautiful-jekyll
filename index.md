@@ -5,9 +5,9 @@ title: SAND Project
 ---
 
 <hr>
-<h4 style="text-align:center; margin:5%">The SAND team perform applied
+<h4 style="text-align:center; margin:5%">The SAND team performs applied
 research in Anycast services aiming to provide tools and
-recomendations for DNS operators. </h4>
+recommendations for DNS operators. </h4>
 
 <hr>
 <div class="container-fluid">
@@ -39,7 +39,7 @@ intelligent real-time tools that enable them to monitor their anycast
 services, for instance during a DDoS attack.  Our goal is to develop,
 prototype and evaluate tools and recommendations for anycast system
 operators. <br> <br>An essential part of the project is to active
-investigate anycast site visibility by understanding of the dynamic
+investigate anycast site visibility by the understanding of the dynamic
 relationship between Internet routing (BGP) and anycast services.
 <br>
 <br> To accurately map the anycast sites visibility from the client
