@@ -53,7 +53,7 @@ in place.
 <li class="news-item">
 <table cellpadding="4">
 <tr>
-<td><img src="images/1.png" width="60" class="img-circle" /></td>
+<td><span class="glyphicon glyphicon-asterisk"></span> <img src="images/1.png" width="60" class="img-circle" /></td>
 <td> News 1<a href="#">Read more...</a></td>
 </tr>
 </table>
