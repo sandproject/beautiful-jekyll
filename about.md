@@ -52,6 +52,11 @@ in place.
 						<p align="left" style="margin-right:10px">
 							<span class="badge">1 May 2018</span> SAND project phase 3 started!<br>
 						</p>
+
+						<p align="left" style="margin-right:10px">
+							<span class="badge">1 May 2018</span> SIDN, .nl registry, follows our IMC2017 paper (link to it) and move
+all its authoritative servers to anycast <br>
+						</p>
 					</div>
 				</div>
 				<div class="space"></div>
