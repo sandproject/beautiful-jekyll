@@ -49,7 +49,7 @@ in place.
 				<div class="icon">
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
-						<h7 class="title">News</h7>
+						<h7 class="title"></h7>
 						<h7>News</h7>
 <span class="badge">10 May 2018</span>
 						<p>
