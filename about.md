@@ -44,10 +44,10 @@ in place.
 
 <div class="container">
 	<div class="row">
-    	<div class="col-sx-12 col-sm-6 col-lg-6">
+    	<div style="margin:1% 30% 1% 30%" class="col-sx-12 col-sm-6 col-lg-6">
 			<div class="box">							
 				<div class="icon">
-					<div style="margin:1% 30% 1% 30%" class="image"><i class="fa fa-file-text-o"></i></div>
+					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
 						<h5 class="title">News</h5>
 						<p>
