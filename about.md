@@ -49,8 +49,8 @@ in place.
 				<div class="icon">
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
+					
 						<h7 class="title"></h7>
-<span class="badge">10 May 2018</span>
 						<p>
 						<span class="badge">10 May 2018</span> tste <br>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.
