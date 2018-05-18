@@ -52,7 +52,7 @@ in place.
           <div class="latest-news-left">  </div>
           <div class="latest-news-right">
             <p>Lewinsky and Trump: I tremble for my country</p>
-            <div class="news"> <span class="news-left"></span> <span class="news-right">14 May, 2016</span> </div>
+            <span class="news-left">14 May, 2016</span> </div>
           </div>
         </div>
         <div class="latest-news-all">
@@ -69,7 +69,6 @@ in place.
             <div class="news"> <span class="news-left"></span> <span class="news-right">14 May, 2016</span> </div>
           </div>
         </div>
-        <a href="#">View All</a> </div>
     </div>
   </div>
 </div>
