@@ -44,38 +44,16 @@ in place.
 
 <div class="container">
 	<div class="row">
-        
-    	<div style="margin: 1% 30% 1% 30%" class="col-sx-12 col-sm-6 col-lg-6">
-			<div class="box">							
-				<div class="icon">
-					<div class="image"> <i class="fa fa-file-text-o" style="font-size:24px"></i> </div>
-				</div>
-				<div class="info">
-					<ul>
-					  <li>Coffee1</li>
-					  <li>Tea</li>
-					  <li>Milk</li>
-					</ul>
-			    </div>
-				<div class="space"></div>
-			</div> 
-		</div> 
-	</div> 
-</div>
-
-
-<div class="container">
-	<div class="row">
-        <!-- Boxes de Acoes -->
     	<div class="col-sx-12 col-sm-6 col-lg-6">
 			<div class="box">							
 				<div class="icon">
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
-						<h5 class="title">Made with Bootstrap</h5>
+						<h5 class="title">News</h5>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.
 						</p>
+<p>teste4</p>
 
 					<ul>
 					  <li>Coffee1</li>
