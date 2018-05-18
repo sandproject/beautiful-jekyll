@@ -45,14 +45,14 @@ in place.
 <div class="container">
 	<div class="row">
         
-    	<div class="col-sx-12 col-sm-6 col-lg-6">
+    	<div style="margin: 1% 30% 1% 30%" class="col-sx-12 col-sm-6 col-lg-6">
 			<div class="box">							
 				<div class="icon">
 					<div class="image"> <i class="fa fa-file-text-o" style="font-size:24px"></i> </div>
 				</div>
 				<div class="info">
 					<ul>
-					  <li>Coffee</li>
+					  <li>Coffee1</li>
 					  <li>Tea</li>
 					  <li>Milk</li>
 					</ul>
