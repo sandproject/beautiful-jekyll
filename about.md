@@ -49,7 +49,7 @@ in place.
 				<div class="icon">
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
-				   		<p style="margin-right:5px font-size:20px">	
+				   		<p style="margin-top:1px font-size:20px">	
 							<span class="label label-primary">News</span> <br>
 						</p>
 						<p align="left" style="margin-right:10px">
