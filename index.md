@@ -45,11 +45,12 @@ recommendations for DNS operators. </h4>
                         <h4> <span class="label label-primary">News</span> </h4>
 
 						<!--begin news item -->
-                        <p align="left">
-                            <span class="badge" style="margin-right:10px" >16  May 2018
+                        <p>
+                            <span class="badge" style="text-align="right margin-right:10px" >
+								16  May 2018
 							</span> 
                         </p>
-                        <p align="center">
+                        <p>
 							The new website was published.<br>
                         </p>
 						<!--end news item -->
