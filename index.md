@@ -35,7 +35,7 @@ recommendations for DNS operators. </h4>
 
 <hr>
 
-<div class="container-fluid" style="margin: 0% 25% 0% 25%">
+<div style="margin:1% 20% 1% 20%" class="container">
     <div class="row">
         <div class="col-sx-12 col-sm-6 col-lg-6">
             <div class="box">
