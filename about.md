@@ -50,7 +50,7 @@ in place.
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
 						<p align="left" margin-left:"5px">
-						<span class="badge">1 May 2018</span> SAND project phase 3 started!<br>
+							<span class="badge">1 May 2018</span> SAND project phase 3 started!<br>
 						</p>
 					</div>
 				</div>
