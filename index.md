@@ -57,7 +57,6 @@ recommendations for DNS operators. </h4>
 
 
 
-
 						<!--begin news item -->
                         <p>
                             <span class="badge" style="float:left margin-right:10px" >
@@ -68,6 +67,15 @@ recommendations for DNS operators. </h4>
 							</span> 
                         </p>
 						<!--end news item -->
+
+
+						<!--begin news item -->
+                        <p align="left">
+                            <span class="badge" style="margin-right:10px" >16 May 2018</span> The new website was published.<br>
+                        </p>
+						<!--end news item -->
+
+
 
 
 						<!--begin news item -->
