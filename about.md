@@ -49,9 +49,9 @@ in place.
 				<div class="icon">
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
-				   <p style="margin-right:10px">	
-<span style="margin-top:20px"> <span style="margin-top:20px  display: inline-block;" class="label label-primary">News</span> </span> <br>
-					</p>
+				   		<p style="margin-right:10px">	
+							<span class="label label-primary">News</span> </span> <br>
+						</p>
 						<p align="left" style="margin-right:10px">
 							<span class="badge">1 May 2018</span> SAND project phase 3 started!<br>
 						</p>
