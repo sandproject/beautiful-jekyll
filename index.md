@@ -38,11 +38,7 @@ recommendations for DNS operators. </h4>
 <div class="container-fluid" style="margin: 0% 25% 0% 25% color:blue">
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
-   		<div class="col-md-4 col-sm-4">
-		    <a href="http://www.utwente.nl/"><img src="/img/twente.png"></a>
-        </div>
-        <div class="col-md-4 col-sm-4">
-   		
+  		
            <div class="box">
                 <div class="icon">
                     <div class="image"><i class="fa fa-file-text-o"></i></div>
@@ -64,12 +60,7 @@ recommendations for DNS operators. </h4>
 
 
 
-
-        </div>
-        <div class="col-md-4 col-sm-4">
-   			<a href="https://nlnetlabs.nl/"><img src="/img/nlnetlab.png"></a>
-        </div>
-	</div>
+ 	</div>
 </div>
 </div>
 
