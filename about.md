@@ -62,3 +62,27 @@ in place.
 		</div> 
 	</div> 
 </div>
+
+
+<div class="container">
+	<div class="row">
+        <!-- Boxes de Acoes -->
+    	<div class="col-sx-12 col-sm-6 col-lg-6">
+			<div class="box">							
+				<div class="icon">
+					<div class="image"><i class="fa fa-thumbs-o-up"></i></div>
+					<div class="info">
+						<h3 class="title">Made with Bootstrap</h3>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.
+						</p>
+						<button type="submit" class="btn btn-default">submit</button>
+					</div>
+				</div>
+				<div class="space"></div>
+			</div> 
+		</div>
+			
+	</div>
+</div>
+</div>
