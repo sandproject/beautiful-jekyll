@@ -50,11 +50,12 @@ in place.
 				<div class="icon">
 					<div class="image"> <i class="fa fa-file-text-o" style="font-size:24px"></i> </div>
 					<div class="info">
-						<h3 class="title">Made with Bootstrap</h3>
-<i class="material-icons">message</i>
-						<p>
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.
-						</p>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
 						<button type="submit" class="btn btn-default">submit</button>
 					</div>
 				</div>
