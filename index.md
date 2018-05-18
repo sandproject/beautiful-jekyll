@@ -51,14 +51,11 @@ recommendations for DNS operators. </h4>
 						<!--end news item -->
 
 
-
-
 						<!--begin news item -->
                         <p align="left">
                             <span class="badge" style="width: 100px; margin-right:10px" >1 May 2018</span> SAND project phase 3 started!<br>
                         </p>
 						<!--end news item -->
-
 
                         <p align="left">
                             <span class="badge" style="width: 100px; margin-right:10px" > 5 October 2017</span> SIDN, .nl registry, follows our IMC2017 <a href="http://wwwhome.cs.utwente.nl/~schmidtr/docs/pam2017schmidt.pdf">paper </a> and move all its authoritative servers to anycast.<br>
