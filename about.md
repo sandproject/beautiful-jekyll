@@ -53,7 +53,7 @@ in place.
 						<h7>News</h7>
 <span class="badge">10 May 2018</span>
 						<p>
-						
+						<span class="badge">10 May 2018</span> tste <br>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.
 						</p>
 					</div>
