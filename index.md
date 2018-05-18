@@ -33,19 +33,6 @@ recommendations for DNS operators. </h4>
 </div>
 </div>
 
-<p style="text-align:justify">
-The problem that SAND address is that DNS operators have very few
-intelligent real-time tools that enable them to monitor their anycast
-services, for instance during a DDoS attack.  Our goal is to develop,
-prototype and evaluate tools and recommendations for anycast system
-operators. <br> <br>An essential part of the project is to active
-investigate anycast site visibility by the understanding of the dynamic
-relationship between Internet routing (BGP) and anycast services.
-<br>
-<br> To accurately map the anycast sites visibility from the client
-perspective enables operators to carefully manage their systems and
-assisting in attacks response.
-</p>
 <hr>
 
 <div style="margin:1% 20% 1% 20%" class="container">
@@ -70,10 +57,24 @@ assisting in attacks response.
                 <div class="space"></div>
             </div>
         </div>
+
     </div>
 </div>
+
+<p style="text-align:justify">
+The problem that SAND address is that DNS operators have very few
+intelligent real-time tools that enable them to monitor their anycast
+services, for instance during a DDoS attack.  Our goal is to develop,
+prototype and evaluate tools and recommendations for anycast system
+operators. <br> <br>An essential part of the project is to active
+investigate anycast site visibility by the understanding of the dynamic
+relationship between Internet routing (BGP) and anycast services.
 <br>
-<br>
+<br> To accurately map the anycast sites visibility from the client
+perspective enables operators to carefully manage their systems and
+assisting in attacks response.
+</p>
+<hr>
 
 
 <h6>SAND is a joint project:</h6>
