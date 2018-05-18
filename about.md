@@ -50,11 +50,8 @@ in place.
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
 						<h4> <span class="label label-primary">News</span> </h4>
-				   		<p style="margin-top:1px font-size:20px">	
-							<span class="label label-primary">News</span> <br>
-						</p>
 						<p align="left" style="margin-right:10px">
-							<span class="badge">1 May 2018</span> SAND project phase 3 started!<br>
+							<span class="badge" style="margin-right:10px >1 May 2018</span> SAND project phase 3 started!<br>
 						</p>
 
 						<p align="left" style="margin-right:10px">
