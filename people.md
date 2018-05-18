@@ -10,10 +10,10 @@ subtitle:
 * Cristian Hesselman
 * Giovane Moura (SIDN Labs)
 * John Graat (SIDN)
-* JoÃ£o Ceron (UTwente)
+* Jo&atilde;o  Ceron (UTwente)
 * Marc Groeneweg (SIDN)
 * Martin Hoffmanm (NLnet Labs)
-* Moritz MÃ¼ller (SIDN Labs)
+* Moritz M&uuml;ller (SIDN Labs)
 * Wouter B. de Vries (Utwente)
 
 #### External Contributors:
