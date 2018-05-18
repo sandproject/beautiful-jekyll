@@ -50,8 +50,13 @@ in place.
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
 						<h4> <span class="label label-primary">News</span> </h4>
+
 						<p align="left">
 							<span class="badge" style="margin-right:10px" >1 May 2018</span> SAND project phase 3 started!<br>
+						</p>
+
+						<p align="left">
+							<span class="badge" style="margin-right:10px" > 5 October 2017</span> SIDN, .nl registry, follows our IMC2017 <a href="http://wwwhome.cs.utwente.nl/~schmidtr/docs/pam2017schmidt.pdf">paper </a> and move all its authoritative servers to anycast.<br>
 						</p>
 
 						<p align="left" style="margin-right:10px">
