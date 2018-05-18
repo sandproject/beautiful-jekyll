@@ -51,7 +51,6 @@ in place.
 					<div class="info">
 					
 <span style="margin-top:20px"> <span style="margin-top:20px  display: inline-block;" class="label label-primary">News</span> </span> <br>
-<span style="margin-top:20px" class="label label-primary">News</span> <br>
 						<p align="left" style="margin-right:10px">
 							<span class="badge">1 May 2018</span> SAND project phase 3 started!<br>
 						</p>
