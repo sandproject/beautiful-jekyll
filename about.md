@@ -51,6 +51,7 @@ in place.
 					<div class="image"><i class="material-icons" style="font-size:36px"></i> </div>
 					<div class="info">
 						<h3 class="title">Made with Bootstrap</h3>
+<i class="material-icons">message</i>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.
 						</p>
