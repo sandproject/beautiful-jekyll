@@ -49,7 +49,7 @@ in place.
 				<div class="icon">
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
-						<p align="left" style="margin-left:5px">
+						<p align="left" style="margin-left:10px">
 							<span class="badge">1 May 2018</span> SAND project phase 3 started!<br>
 						</p>
 					</div>
