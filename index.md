@@ -49,6 +49,9 @@ recommendations for DNS operators. </h4>
                             <span class="badge" style="float:left margin-right:10px" >
 								16  May 2018
 							</span> 
+                            <span class="badge" style="float:right margin-right:10px" >
+								16  May 2018
+							</span> 
                         </p>
                         <p>
 							The new website was published.<br>
