@@ -72,12 +72,12 @@ in place.
 				<div class="icon">
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
-						<h5>Made with Bootstrap</h3>
+						<h5 class="title">Made with Bootstrap</h5>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.
 						</p>
 
-					<ul class="fdaf">
+					<ul>
 					  <li>Coffee1</li>
 					  <li>Tea</li>
 					  <li>Milk</li>
