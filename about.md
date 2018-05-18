@@ -50,7 +50,6 @@ in place.
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
 						<h7 class="title"></h7>
-						<h7>News</h7>
 <span class="badge">10 May 2018</span>
 						<p>
 						<span class="badge">10 May 2018</span> tste <br>
