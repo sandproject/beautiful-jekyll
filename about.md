@@ -42,35 +42,40 @@ in place.
 * A prototype of the SAND anycast recommendation tool, which helps anycast operators to understand and manage the impacts of traffic load and anycast deployment (e.g., anycast instance addition or removal, and routing policies change) modifications to the anycast service operation.
 * Visualization tools (e.g., statistics, graphs) based on the recommendation tool to support the operation and management of anycast deployments.
 
-
 <div class="container">
-  <div class="row">
-    <div class="col-md-4">
-      <div class="latest-news">
-        <h3>Latest Campaign News</h3>
-        <div class="latest-news-all">
-          <div class="latest-news-left">  </div>
-          <div class="latest-news-right">
-            <p>Lewinsky and Trump: I tremble for my country</p>
-            <span class="news-left">14 May, 2016</span> </div>
-          </div>
-        </div>
-        <div class="latest-news-all">
-          <div class="latest-news-left">  </div>
-          <div class="latest-news-right">
-            <p>White House zings No. 2 Texas official transgender</p>
-            <div class="news"> <span class="news-left"></span> <span class="news-right">14 May, 2016</span> </div>
-          </div>
-        </div>
-        <div class="latest-news-all">
-          <div class="latest-news-left">  </div>
-          <div class="latest-news-right">
-            <p>The Forest Service's climate change failure</p>
-            <div class="news"> <span class="news-left"></span> <span class="news-right">14 May, 2016</span> </div>
-          </div>
-        </div>
-    </div>
-  </div>
+	<div class="row">
+        <!-- Boxes de Acoes -->
+    	<div class="col-sx-12 col-sm-6 col-lg-6">
+			<div class="box">							
+				<div class="icon">
+					<div class="image"><i class="fa fa-thumbs-o-up"></i></div>
+					<div class="info">
+						<h3 class="title">Made with Bootstrap</h3>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.
+						</p>
+						<button type="submit" class="btn btn-default">submit</button>
+					</div>
+				</div>
+				<div class="space"></div>
+			</div> 
+		</div>
+			
+        <div class="col-xs-12 col-sm-6 col-lg-6">
+			<div class="box">							
+				<div class="icon">
+				    <div class="image"><i class="fa fa-flag"></i></div>
+					<div class="info">
+    					<h3 class="title">Made with Bootstrap</h3>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.
+						</p>
+						<button type="submit" class="btn btn-default">submit</button>
+					</div>
+				<div class="space"></div>
+			</div> 
+		</div>
+			
+        	    
+	</div>
 </div>
-
-
