@@ -18,6 +18,6 @@ subtitle:
 
 #### External Contributors:
 
-* R. de O. Schmidt
-* J. Heidemann
+* Ricardo de Oliveira Schmidt
+* John Heidemann
 
