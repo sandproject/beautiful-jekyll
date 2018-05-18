@@ -49,24 +49,24 @@ in place.
       <div class="latest-news">
         <h3>Latest Campaign News</h3>
         <div class="latest-news-all">
-          <div class="latest-news-left"> <img src="https://www.orioninfosolutions.com/portfolio/img/app/super_panda.jpg" width="150px" alt=""> </div>
+          <div class="latest-news-left">  </div>
           <div class="latest-news-right">
             <p>Lewinsky and Trump: I tremble for my country</p>
-            <div class="news"> <span class="news-left">Admin</span> <span class="news-right">14 May, 2016</span> </div>
+            <div class="news"> <span class="news-left"></span> <span class="news-right">14 May, 2016</span> </div>
           </div>
         </div>
         <div class="latest-news-all">
-          <div class="latest-news-left"> <img src="https://www.orioninfosolutions.com/portfolio/img/app/super_panda.jpg" width="150px" alt="">  </div>
+          <div class="latest-news-left">  </div>
           <div class="latest-news-right">
             <p>White House zings No. 2 Texas official transgender</p>
-            <div class="news"> <span class="news-left">Admin</span> <span class="news-right">14 May, 2016</span> </div>
+            <div class="news"> <span class="news-left"></span> <span class="news-right">14 May, 2016</span> </div>
           </div>
         </div>
         <div class="latest-news-all">
-          <div class="latest-news-left"> <img src="https://www.orioninfosolutions.com/portfolio/img/app/super_panda.jpg" width="150px" alt="">  </div>
+          <div class="latest-news-left">  </div>
           <div class="latest-news-right">
             <p>The Forest Service's climate change failure</p>
-            <div class="news"> <span class="news-left">Admin</span> <span class="news-right">14 May, 2016</span> </div>
+            <div class="news"> <span class="news-left"></span> <span class="news-right">14 May, 2016</span> </div>
           </div>
         </div>
         <a href="#">View All</a> </div>
