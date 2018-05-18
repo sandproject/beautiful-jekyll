@@ -44,25 +44,21 @@ in place.
 
 <div class="container">
 	<div class="row">
-        <!-- Boxes de Acoes -->
+        
     	<div class="col-sx-12 col-sm-6 col-lg-6">
 			<div class="box">							
 				<div class="icon">
 					<div class="image"> <i class="fa fa-file-text-o" style="font-size:24px"></i> </div>
-					<div class="info">
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-
-					</div>
-teste1
 				</div>
-tste23
+				<div class="info">
+					<ul>
+					  <li>Coffee</li>
+					  <li>Tea</li>
+					  <li>Milk</li>
+					</ul>
+			    </div>
 				<div class="space"></div>
 			</div> 
-		</div>
-			
-	</div>
+		</div> 
+	</div> 
 </div>
