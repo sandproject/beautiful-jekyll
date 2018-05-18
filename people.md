@@ -5,9 +5,9 @@ subtitle:
 ---
 
 #### Team
-* Aiko Pras
-* Benno Overeinder
-* Cristian Hesselman
+* Aiko Pras (Utwente)
+* Benno Overeinder (NLnet Labs)
+* Cristian Hesselman (SIDN)
 * Giovane Moura (SIDN Labs)
 * John Graat (SIDN)
 * Jo&atilde;o  Ceron (UTwente)
