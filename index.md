@@ -47,6 +47,35 @@ perspective enables operators to carefully manage their systems and
 assisting in attacks response.
 </p>
 <hr>
+
+<div style="margin:1% 20% 1% 20%" class="container">
+    <div class="row">
+        <div class="col-sx-12 col-sm-6 col-lg-6">
+            <div class="box">
+                <div class="icon">
+                    <div class="image"><i class="fa fa-file-text-o"></i></div>
+                    <div class="info">
+                        <h4> <span class="label label-primary">News</span> </h4>
+
+                        <p align="left">
+                            <span class="badge" style="margin-right:10px" >1 May 2018</span> SAND project phase 3 started!<br>
+                        </p>
+
+                        <p align="left">
+                            <span class="badge" style="margin-right:10px" > 5 October 2017</span> SIDN, .nl registry, follows our IMC2017 <a href="http://wwwhome.cs.utwente.nl/~schmidtr/docs/pam2017schmidt.pdf">paper </a> and move all its authoritative servers to anycast.<br>
+                        </p>
+
+                    </div>
+                </div>
+                <div class="space"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+<br>
+
+
 <h6>SAND is a joint project:</h6>
 <div class="container-fluid" style="margin: 0% 25% 0% 25%">
 <div class="col-sm-12 col-sm-offset-0"> 
