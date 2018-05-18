@@ -46,7 +46,7 @@ recommendations for DNS operators. </h4>
 
 						<!--begin news item -->
                         <p>
-                            <span class="badge" style="text-align="right margin-right:10px" >
+                            <span class="badge" style="float:left margin-right:10px" >
 								16  May 2018
 							</span> 
                         </p>
