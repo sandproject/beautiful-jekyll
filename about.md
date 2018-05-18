@@ -49,8 +49,7 @@ in place.
 				<div class="icon">
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
-						<h5 class="title">News</h5>
-						<h7 class="title">News</h3>
+						<h7> class="title">News</h7>
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.
 						</p>
