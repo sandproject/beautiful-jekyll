@@ -50,7 +50,7 @@ in place.
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
 				   		<p style="margin-right:5px font-size:20px">	
-							<span class="label label-primary">News</span> </span> <br>
+							<span class="label label-primary">News</span> <br>
 						</p>
 						<p align="left" style="margin-right:10px">
 							<span class="badge">1 May 2018</span> SAND project phase 3 started!<br>
