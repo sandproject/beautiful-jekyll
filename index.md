@@ -63,31 +63,6 @@ recommendations for DNS operators. </h4>
 <br>
 
 
-    <div class="row">
-        <div class="col-sx-12 col-sm-6 col-lg-6">
-            <div class="box">
-                <div class="icon">
-                    <div class="image"><i class="fa fa-file-text-o"></i></div>
-                    <div class="info">
-                        <h4> <span class="label label-primary">News</span> </h4>
-
-                        <p align="left">
-                            <span class="badge" style="margin-right:10px" >1 May 2018</span> SAND project phase 3 started!<br>
-                        </p>
-
-                        <p align="left">
-                            <span class="badge" style="margin-right:10px" > 5 October 2017</span> SIDN, .nl registry, follows our IMC2017 <a href="http://wwwhome.cs.utwente.nl/~schmidtr/docs/pam2017schmidt.pdf">paper </a> and move all its authoritative servers to anycast.<br>
-                        </p>
-
-                    </div>
-                </div>
-                <div class="space"></div>
-            </div>
-        </div>
-
-    </div>
-</div>
-
 <p style="text-align:justify">
 The problem that SAND address is that DNS operators have very few
 intelligent real-time tools that enable them to monitor their anycast
