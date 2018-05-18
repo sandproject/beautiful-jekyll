@@ -42,9 +42,9 @@ in place.
 * A prototype of the SAND anycast recommendation tool, which helps anycast operators to understand and manage the impacts of traffic load and anycast deployment (e.g., anycast instance addition or removal, and routing policies change) modifications to the anycast service operation.
 * Visualization tools (e.g., statistics, graphs) based on the recommendation tool to support the operation and management of anycast deployments.
 
-<div class="container">
+<div style="margin:1% 30% 1% 30%" class="container">
 	<div class="row">
-    	<div style="margin:1% 30% 1% 30%" class="col-sx-12 col-sm-6 col-lg-6">
+    	<div class="col-sx-12 col-sm-6 col-lg-6">
 			<div class="box">							
 				<div class="icon">
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
