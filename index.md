@@ -37,8 +37,6 @@ recommendations for DNS operators. </h4>
 
 <div class="container-fluid" style="margin: 0% 10% 0% 10%">
 <div class="col-sm-12 col-sm-offset-0"> 
-
-
         <div class="col-sx-12 col-sm-6 col-lg-6">
             <div class="box">
                 <div class="icon">
@@ -62,10 +60,9 @@ recommendations for DNS operators. </h4>
 </div>
 </div>
 
-
-
-<div style="margin:1% 20% 1% 20%" class="container">
-    <div class="row">
+<div class="container-fluid" style="margin: 0% 25% 0% 25%">
+<div class="col-sm-12 col-sm-offset-0"> 
+	<div class="row">
         <div class="col-sx-12 col-sm-6 col-lg-6">
             <div class="box">
                 <div class="icon">
@@ -86,10 +83,15 @@ recommendations for DNS operators. </h4>
                 <div class="space"></div>
             </div>
         </div>
-    </div>
+
+
+
+	</div>
 </div>
-<br>
-<br>
+</div>
+
+
+
 
 
 <p style="text-align:justify">
