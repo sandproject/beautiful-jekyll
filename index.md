@@ -35,6 +35,24 @@ recommendations for DNS operators. </h4>
 
 <hr>
 
+<div class="container-fluid" style="margin: 0% 10% 0% 10%">
+<div class="col-sm-12 col-sm-offset-0"> 
+	<div class="row text-center"><br>
+   		<div class="col-md-4 col-sm-4">
+		    <a href="http://www.utwente.nl/"><img src="/img/twente.png"></a>
+        </div>
+        <div class="col-md-4 col-sm-4">
+   			<a href="http://www.sidn.nl/"><img src="/img/sidn-logo.png"></a>
+        </div>
+        <div class="col-md-4 col-sm-4">
+   			<a href="https://nlnetlabs.nl/"><img src="/img/nlnetlab.png"></a>
+        </div>
+	</div>
+</div>
+</div>
+
+
+
 <div style="margin:1% 20% 1% 20%" class="container">
     <div class="row">
         <div class="col-sx-12 col-sm-6 col-lg-6">
