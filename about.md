@@ -48,7 +48,7 @@ in place.
     	<div class="col-sx-12 col-sm-6 col-lg-6">
 			<div class="box">							
 				<div class="icon">
-					<div class="image"><i class="fa fa-thumbs-o-up"></i></div>
+					<div class="image"><i class="glyphicon glyphicon-info-sign"></i></div>
 					<div class="info">
 						<h3 class="title">Made with Bootstrap</h3>
 						<p>
