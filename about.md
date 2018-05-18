@@ -49,12 +49,13 @@ in place.
 				<div class="icon">
 					<div class="image"><i class="fa fa-file-text-o"></i></div>
 					<div class="info">
+<span class="label label-primary">Primary Label</span> <br>
 						<p align="left" style="margin-right:10px">
 							<span class="badge">1 May 2018</span> SAND project phase 3 started!<br>
 						</p>
 
 						<p align="left" style="margin-right:10px">
-							<span class="badge">1 May 2018</span> SIDN, .nl registry, follows our IMC2017 <a href="http://wwwhome.cs.utwente.nl/~schmidtr/docs/pam2017schmidt.pdf">paper </a> and move all its authoritative servers to anycast <br>
+							<span class="badge">5 October 2017</span> SIDN, .nl registry, follows our IMC2017 <a href="http://wwwhome.cs.utwente.nl/~schmidtr/docs/pam2017schmidt.pdf">paper </a> and move all its authoritative servers to anycast <br>
 						</p>
 					</div>
 				</div>
