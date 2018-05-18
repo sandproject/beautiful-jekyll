@@ -38,7 +38,6 @@ recommendations for DNS operators. </h4>
 <div class="container-fluid" style="margin: 0% 25% 0% 25% color:blue">
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
-  		
            <div class="box">
                 <div class="icon">
                     <div class="image"><i class="fa fa-file-text-o"></i></div>
@@ -46,7 +45,7 @@ recommendations for DNS operators. </h4>
                         <h4> <span class="label label-primary">News</span> </h4>
 
 						<!--begin news item -->
-                        <p align="left">
+                        <p align="right">
                             <span class="badge" style="margin-right:10px" >16  May 2018</span> The new website was published.<br>
                         </p>
 						<!--end news item -->
