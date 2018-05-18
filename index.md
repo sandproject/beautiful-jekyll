@@ -59,20 +59,6 @@ recommendations for DNS operators. </h4>
                 <div class="space"></div>
             </div>
         </div>
-
-
-
-	<div class="row text-center"><br>
-   		<div class="col-md-4 col-sm-4">
-		    <a href="http://www.utwente.nl/"><img src="/img/twente.png"></a>
-        </div>
-        <div class="col-md-4 col-sm-4">
-   			<a href="http://www.sidn.nl/"><img src="/img/sidn-logo.png"></a>
-        </div>
-        <div class="col-md-4 col-sm-4">
-   			<a href="https://nlnetlabs.nl/"><img src="/img/nlnetlab.png"></a>
-        </div>
-	</div>
 </div>
 </div>
 
