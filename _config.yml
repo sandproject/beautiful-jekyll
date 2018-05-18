@@ -28,6 +28,7 @@ navbar-links:
   Resources:
     - Anycast TestBed: "http://www.anycast-testbed.com/"
     - Verfploeter: "https://ant.isi.edu/software/verfploeter/index.html"
+  People: "people" 
   Contact: "contact"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
