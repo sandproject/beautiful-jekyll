@@ -53,10 +53,20 @@ recommendations for DNS operators. </h4>
 								The new website was published.<br>
 							</span> 
                         </p>
+						<!--end news item -->
+
+
+						<!--begin news item -->
                         <p>
-							The new website was published.<br>
+                            <span class="badge" style="float:left margin-right:10px" >
+								1  May 2018
+							</span> 
+                            <span style="float:right margin-right:10px" >
+								SAND project phase 3 started!<br>
+							</span> 
                         </p>
 						<!--end news item -->
+
 
 						<!--begin news item -->
                         <p align="left">
