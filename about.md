@@ -42,7 +42,7 @@ in place.
 * A prototype of the SAND anycast recommendation tool, which helps anycast operators to understand and manage the impacts of traffic load and anycast deployment (e.g., anycast instance addition or removal, and routing policies change) modifications to the anycast service operation.
 * Visualization tools (e.g., statistics, graphs) based on the recommendation tool to support the operation and management of anycast deployments.
 
-<div style="margin:1% 30% 1% 30%" class="container">
+<div style="margin:1% 20% 1% 20%" class="container">
 	<div class="row">
     	<div class="col-sx-12 col-sm-6 col-lg-6">
 			<div class="box">							
@@ -54,8 +54,7 @@ in place.
 						</p>
 
 						<p align="left" style="margin-right:10px">
-							<span class="badge">1 May 2018</span> SIDN, .nl registry, follows our IMC2017 paper (link to it) and move
-all its authoritative servers to anycast <br>
+							<span class="badge">1 May 2018</span> SIDN, .nl registry, follows our IMC2017 <a href="http://wwwhome.cs.utwente.nl/~schmidtr/docs/pam2017schmidt.pdf">paper </a> and move all its authoritative servers to anycast <br>
 						</p>
 					</div>
 				</div>
