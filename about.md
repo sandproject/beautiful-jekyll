@@ -59,9 +59,6 @@ in place.
 							<span class="badge" style="margin-right:10px" > 5 October 2017</span> SIDN, .nl registry, follows our IMC2017 <a href="http://wwwhome.cs.utwente.nl/~schmidtr/docs/pam2017schmidt.pdf">paper </a> and move all its authoritative servers to anycast.<br>
 						</p>
 
-						<p align="left" style="margin-right:10px">
-							<span class="badge">5 October 2017</span> SIDN, .nl registry, follows our IMC2017 <a href="http://wwwhome.cs.utwente.nl/~schmidtr/docs/pam2017schmidt.pdf">paper </a> and move all its authoritative servers to anycast.<br>
-						</p>
 					</div>
 				</div>
 				<div class="space"></div>
