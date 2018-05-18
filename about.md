@@ -76,7 +76,13 @@ in place.
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in lobortis nisl, vitae iaculis sapien. Phasellus ultrices gravida massa luctus ornare. Suspendisse blandit quam elit, eu imperdiet neque semper.
 						</p>
-						<button type="submit" class="btn btn-default">submit</button>
+
+					<ul>
+					  <li>Coffee1</li>
+					  <li>Tea</li>
+					  <li>Milk</li>
+					</ul>
+	
 					</div>
 				</div>
 				<div class="space"></div>
