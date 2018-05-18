@@ -45,31 +45,6 @@ recommendations for DNS operators. </h4>
                         <h4> <span class="label label-primary">News</span> </h4>
 
 						<!--begin news item -->
-                        <p>
-                            <span class="badge" style="float:left margin-right:10px" >
-								1  May 2018
-							</span> 
-                            <span style="float:right margin-right:10px" >
-								The new website was published.
-							</span> 
-                        </p>
-						<!--end news item -->
-
-
-
-						<!--begin news item -->
-                        <p>
-                            <span class="badge" style="float:left margin-right:10px" >
-								1  May 2018
-							</span> 
-                            <span style="float:right margin-right:10px" >
-								SAND project phase 3 started!<br>
-							</span> 
-                        </p>
-						<!--end news item -->
-
-
-						<!--begin news item -->
                         <p align="left">
                             <span class="badge" style="width: 40px; margin-right:10px" >16 May 2018</span> The new website was published.<br>
                         </p>
