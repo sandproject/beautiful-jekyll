@@ -34,7 +34,6 @@ recommendations for DNS operators. </h4>
 </div>
 
 <hr>
-
 <div class="container-fluid" style="margin: 0% 25% 0% 25% color:blue">
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
