@@ -12,7 +12,7 @@ subtitle:
 * John Graat (SIDN)
 * Jo&atilde;o  Ceron (UTwente)
 * Marc Groeneweg (SIDN)
-* Martin Hoffmanm (NLnet Labs)
+* Martin Hoffmann (NLnet Labs)
 * Moritz M&uuml;ller (SIDN Labs)
 * Wouter B. de Vries (Utwente)
 
