@@ -43,6 +43,13 @@ recommendations for DNS operators. </h4>
                     <div class="info">
                         <h4> <span class="label label-primary">News</span> </h4>
 
+                        <p align="left">
+                            <span class="badge" style="width: 100px; margin-right:10px" > 1 June 2018</span> New technicalpaper, see <a href="http://www.sand-project.nl/papers/">papers</a>.<br>
+                        </p>
+						<!--end news item -->
+
+
+
 						<!--begin news item -->
                         <p align="left">
                             <span class="badge" style="width: 100px; margin-right:10px" >23 May 2018</span> The new website was published.<br>
