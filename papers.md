@@ -18,8 +18,7 @@ src="/img/pdf.png">](https://www.sidnlabs.nl/downloads/papers-reports/isi-tr-725
 W. B. de Vries, R. de O. Schmidt, W. Hardaker, J. Heidemann, P.-T. de
 Boer and A. Pras. **Broad and Load-Aware Anycast Mapping with
 Verfploeter.** ACM Internet Measurement Conference (IMC), London, UK,
-2017. [<img
-src="/img/pdf.png">](https://conferences.sigcomm.org/imc/2017/papers/imc17-final46.pdf)
+2017. [<img src="/img/pdf.png">](https://conferences.sigcomm.org/imc/2017/papers/imc17-final46.pdf)
 [<img src="/img/doi.png">](https://doi.org/10.1145/3131365.3131371)
 
 M. M&uuml;ller, G. C. M. Moura, R. de O. Schmidt and J. Heidemann.
@@ -42,7 +41,7 @@ M&uuml;ller, L. Wei and C. Hesselman. **Anycast vs. DDoS: Evaluating
 the November 2015 Root DNS Event.** ACM Internet Measurement
 Conference (IMC), Santa Monica, USA, pp 255-270, 2016.  [<img
 src="/img/pdf.png">](http://wwwhome.cs.utwente.nl/~schmidtr/docs/ISI-TR-2016-709.pdf)
-[<img src="/img/doi.png">](https://doi.org/10.1145/2987443.298744) x
+[<img src="/img/doi.png">](https://doi.org/10.1145/2987443.298744) 
 
 W. de Vries, R. de O. Schmidt and A. Pras. **Anycast and its potential
 for DDoS mitigation**. 10th International conference on Autonomous
