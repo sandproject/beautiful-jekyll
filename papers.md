@@ -4,6 +4,10 @@ title: Papers
 ---
 
 
+Internet Anycast: Performance, Problems and Potential
+Zhihao Li, Dave Levin, Neil Spring, Bobby Bhattacharjee
+ACM SIGCOMM 2018 To appear.  [<img src="/img/pdf.png">](./pdf/anycast_sigcomm18.pdf)
+
 Giovane C. M. Moura, John Heidemann, Moritz M&uuml;ller, Ricardo de O.
 Schmidt, and Marco Davids.  When the Dike Breaks: Dissecting DNS
 Defenses During DDoS. Technical Report: ISI-TR-725. [<img src="/img/pdf.png">](https://www.sidnlabs.nl/downloads/papers-reports/isi-tr-725.pdf)
