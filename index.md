@@ -43,6 +43,14 @@ recommendations for DNS operators. </h4>
                     <div class="info">
                         <h4> <span class="label label-primary">News</span> </h4>
 
+						<!--begin news item -->
+                        <p align="left">
+                            <span class="badge" style="width: 100px; margin-right:10px" > 11 July 2018</span> Paper accepted to ACM SIGCOMM 2018, see <a href="http://www.sand-project.nl/papers/">papers</a>.<br>
+                        </p>
+						<!--end news item -->
+
+
+						<!--begin news item -->
                         <p align="left">
                             <span class="badge" style="width: 100px; margin-right:10px" > 1 June 2018</span> New technical paper, see <a href="http://www.sand-project.nl/papers/">papers</a>.<br>
                         </p>
