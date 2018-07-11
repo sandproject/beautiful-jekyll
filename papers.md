@@ -4,8 +4,8 @@ title: Papers
 ---
 
 
-Internet Anycast: Performance, Problems and Potential
-Zhihao Li, Dave Levin, Neil Spring, Bobby Bhattacharjee
+
+Zhihao Li, Dave Levin, Neil Spring, Bobby Bhattacharjee. *Internet Anycast: Performance, Problems and Potential.*
 ACM SIGCOMM 2018 To appear.  [<img src="/img/pdf.png">](./pdf/anycast_sigcomm18.pdf)
 
 Giovane C. M. Moura, John Heidemann, Moritz M&uuml;ller, Ricardo de O.
