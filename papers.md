@@ -5,7 +5,7 @@ title: Papers
 
 Giovane C. M. Moura, John Heidemann, Moritz M&uuml;ller, Ricardo de O.
 Schmidt, and Marco Davids. **When the Dike Breaks: Dissecting DNS
-Defenses During DDoS.** ACM SIGCOMM 2018. To appear. 
+Defenses During DDoS.** IMC 2018. To appear. 
 
 Giovane C. M. Moura, John Heidemann, Moritz M&uuml;ller, Ricardo de O.
 Schmidt, and Marco Davids. **When the Dike Breaks: Dissecting DNS
