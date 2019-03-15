@@ -35,14 +35,14 @@ recommendations for DNS operators. </h4>
 
 
 <h6>Catchment investigation dashboard::</h6>
-<div class="container-fluid" style="margin: 0% 25% 0% 25%">
+
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
 
    			<img src="/img/sand-dashboard.gif">
 
 	</div>
-</div>
+
 </div>
 
 
