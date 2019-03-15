@@ -34,19 +34,13 @@ recommendations for DNS operators. </h4>
 </div>
 
 
-<h6>SAND is a joint project:</h6>
+<h6>Catchment investigation dashboard::</h6>
 <div class="container-fluid" style="margin: 0% 25% 0% 25%">
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
-   		<div class="col-md-4 col-sm-4">
-		    
-        </div>
-        <div class="col-md-4 col-sm-4">
-   			<a href="http://www.sidn.nl/"><img src="/img/sand-dashboard.gif"></a>
-        </div>
-        <div class="col-md-4 col-sm-4">
 
-        </div>
+   			<img src="/img/sand-dashboard.gif">
+
 	</div>
 </div>
 </div>
