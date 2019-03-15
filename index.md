@@ -34,7 +34,7 @@ recommendations for DNS operators. </h4>
 </div>
 
 
-<h6>Catchment investigation dashboard::</h6>
+<h6>Catchment investigation dashboard:</h6>
 
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
