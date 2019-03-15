@@ -39,8 +39,7 @@ recommendations for DNS operators. </h4>
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
 
-   			<img src="/img/sand-dashboard.gif">
-
+   			<img style="border: 1px solid #000;" src="/img/sand-dashboard.gif">
 	</div>
 
 </div>
