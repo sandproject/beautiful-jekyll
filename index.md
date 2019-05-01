@@ -56,47 +56,53 @@ recommendations for DNS operators. </h4>
                     <div class="info">
                         <h4> <span class="label label-primary">News</span> </h4>
 
-                        <p align="left">
-                            <span class="badge" style="width: 100px; margin-right:10px"> 1 May 2019</span> Verfploeter catchment TTL investigation <a href="https://github.com/joaoceron/verfploeter-ttl-investigation">see research</a>.<br>
-                        </p>
-
-                        <p align="left">
-            			    <span class="badge" style="width: 100px; margin-right:10px" > 11 March 2019</span> New dashboard interface. See animation
-			    above.><br>
-                        </p>
-
 						<!--begin news item -->
                         <p align="left">
-                            <span class="badge" style="width: 100px; margin-right:10px" > 1 August 2018</span> Paper accepted to IMC 2018, see <a href="http://www.sand-project.nl/papers/">papers</a>.<br>
+			                <span class="badge" style="width: 100px;
+			                margin-right:10px"> 1 May 2019</span>
+			                Verfploeter catchment TTL investigation <a
+			                href="https://github.com/joaoceron/verfploeter-ttl-investigation">see
+			                research</a>.<br>
                         </p>
 						<!--end news item -->
 
 
 						<!--begin news item -->
                         <p align="left">
-                            <span class="badge" style="width: 100px; margin-right:10px" > 1 June 2018</span> New technical paper, see <a href="http://www.sand-project.nl/papers/">papers</a>.<br>
+        				    <span class="badge" style="width:
+        				    100px; margin-right:10px" > 11
+        				    March 2019</span> New dashboard
+        				    interface. See animation above.><br>
                         </p>
 						<!--end news item -->
 
+						<!--begin news item -->
+                        <p align="left">
+			                <span class="badge" style="width: 100px;
+			                margin-right:10px" > 1 August 2018</span>
+			                Paper accepted to IMC 2018, see <a
+			                href="http://www.sand-project.nl/papers/">papers</a>.<br>
+                        </p>
+						<!--end news item -->
 
 
 						<!--begin news item -->
                         <p align="left">
-                            <span class="badge" style="width: 100px; margin-right:10px" >23 May 2018</span> The new website was published.<br>
-                        </p>
+			                <span class="badge" style="width: 100px;
+			                margin-right:10px" > 1 June 2018</span>
+			                New technical paper, see <a
+			                href="http://www.sand-project.nl/papers/">papers</a>.<br>
+            			</p>
 						<!--end news item -->
 
 
 						<!--begin news item -->
                         <p align="left">
-                            <span class="badge" style="width: 100px; margin-right:10px" >1 May 2018</span> SAND project phase 3 started!<br>
+			                <span class="badge" style="width: 100px;
+			                margin-right:10px" >23 May 2018</span> The
+			                new website was published.<br>
                         </p>
 						<!--end news item -->
-
-                        <p align="left">
-                            <span class="badge" style="width: 100px; margin-right:10px" > 5 October 2017</span> SIDN, .nl registry, follows our IMC2017 <a href="http://wwwhome.cs.utwente.nl/~schmidtr/docs/pam2017schmidt.pdf">paper </a> and move all its authoritative servers to anycast.<br>
-                        </p>
-
                     </div>
                 </div>
                 <div class="space"></div>
