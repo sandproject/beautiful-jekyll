@@ -72,7 +72,7 @@ recommendations for DNS operators. </h4>
         				    <span class="badge" style="width:
         				    100px; margin-right:10px" > 11
         				    March 2019</span> New dashboard
-        				    interface. See animation above.><br>
+        				    interface. See animation above.<br>
                         </p>
 						<!--end news item -->
 
