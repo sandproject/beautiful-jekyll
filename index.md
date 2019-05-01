@@ -54,13 +54,12 @@ recommendations for DNS operators. </h4>
                 <div class="icon">
                     <div class="image"><i class="fa fa-file-text-o"></i></div>
                     <div class="info">
+                        <h4> <span class="label label-primary">News</span> </h4>
 
                         <p align="left">
                             <span class="badge" style="width: 100px; margin-right:10px"> 1 May 2019</span> Verfploeter catchment TTL investigation <a href="https://github.com/joaoceron/verfploeter-ttl-investigation">see research</a>.<br>
                         </p>
 
-
-                        <h4> <span class="label label-primary">News</span> </h4>
                         <p align="left">
             			    <span class="badge" style="width: 100px; margin-right:10px" > 11 March 2019</span> New dashboard interface. See animation
 			    above.><br>
