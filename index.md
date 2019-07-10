@@ -41,7 +41,7 @@ Anycast relies on the Internet Routing that we do not have the fine
 grain control.  We should monitor how the Internet sees our service
 and find the best approach to influence the clients' reachability.
 
-<h4>Solution: </h4> 
+<h4>Our solution: </h4> 
 
 We have developed a <a
 href="https://github.com/Woutifier/verfploeter">tool</a> using a
@@ -51,6 +51,20 @@ we do regular measurements and observe how our policy can modify
 traffic distribution across the anycast nodes.
 <hr>
 
+
+<h6>Cases:</h6>
+<hr>
+
+We are pround to say that folks from B-root and CloudFare are using
+the proposed methodology to monitor their anycast networks.
+
+
+<div class="col-sm-2 col-sm-offset-0"> 
+    <div class="row text-center">
+    <img style="border: 1px solid #000;" src="/img/usc.png">
+    <img style="border: 1px solid #000;" src="/img/usc.png">
+    </div>
+</div>
 
 
 <h6>Catchment investigation dashboard:</h6>
