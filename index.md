@@ -5,9 +5,11 @@ title: SAND Project
 ---
 
 <hr>
-<h4 style="text-align:center; margin:5%">The SAND team performs applied
-research in Anycast services aiming to provide tools and
-recommendations for DNS operators. </h4>
+<h4 style="text-align:center; margin:5%">
+We perform applied research in Anycast networks. Our goal: traffic
+engineering and DDoS mitigation.
+</h4>
+
 
 <hr>
 <div class="container-fluid">
