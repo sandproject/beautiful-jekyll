@@ -6,7 +6,7 @@ title: SAND Project
 
 <hr>
 <h4 style="text-align:center; margin:5%">
-We perform applied research in Anycast networks. Our goal: traffic
+We perform applied research in Anycast networks. <br> Our goal: traffic
 engineering and DDoS mitigation.
 </h4>
 
