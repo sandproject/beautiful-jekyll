@@ -62,7 +62,7 @@ the proposed methodology to monitor their anycast networks.
 <div class="col-sm-2 col-sm-offset-0"> 
     <div class="row text-center">
     <img style="border: 1px solid #000;" src="/img/usc.png">
-    <img style="border: 1px solid #000;" src="/img/usc.png">
+    <img style="border: 1px solid #000;" src="/img/cloud.png">
     </div>
 </div>
 
