@@ -36,8 +36,19 @@ engineering and DDoS mitigation.
 </div>
 
 <hr>
-<h6>Problem: </h6> 
- Anycast relies on BGP protocol that we do not have control.
+<h4>Problem: </h4> 
+Anycast relies on the Internet Routing that we do not have the fine
+grain control.  We should monitor how the Internet sees our service
+and find the best approach to influence the clients' reachability.
+
+<h4>Solution: </h4> 
+
+We have developed a <a
+href="https://github.com/Woutifier/verfploeter">tool</a> using a
+simple and novel <a
+href="https://dl.acm.org/citation.cfm?id=3131371">approach</a>. Thus,
+we do regular measurements and observe how our policy can modify
+traffic distribution across the anycast nodes.
 <hr>
 
 
