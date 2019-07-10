@@ -61,11 +61,13 @@ the proposed methodology to monitor their anycast networks.
 
 <div class="col-sm-8 col-sm-offset-0"> 
     <div class="row text-center">
-    <img style="border: 0px solid #000;" src="/img/usc.png">
-    <img style="border: 0px solid #000;" src="/img/cloud.png">
+        <img style="border: 0px solid #000;" src="/img/usc.png">
+        <img style="border: 0px solid #000;" src="/img/cloud.png">
     </div>
 </div>
+<br>
 
+<hr>
 
 <h6>Catchment investigation dashboard:</h6>
 <div class="col-sm-12 col-sm-offset-0"> 
