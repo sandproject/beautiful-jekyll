@@ -55,9 +55,9 @@ traffic distribution across the anycast nodes.
 <h6>Cases:</h6>
 <hr>
 
-We are pround to say that folks from B-root and CloudFare are using
-the proposed methodology to monitor their anycast networks.
-
+We are proud to say that folks from root-server letter B and
+CloudFlare are using the proposed methodology to monitor their anycast
+networks.
 
 <div class="col-sm-12 col-sm-offset-0"> 
     <div class="row text-center">
