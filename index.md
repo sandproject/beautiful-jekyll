@@ -35,8 +35,11 @@ engineering and DDoS mitigation.
 </div>
 </div>
 
-
+<hr>
 <h6>Catchment investigation dashboard:</h6>
+<hr>
+
+
 
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
