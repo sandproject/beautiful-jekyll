@@ -59,10 +59,10 @@ We are pround to say that folks from B-root and CloudFare are using
 the proposed methodology to monitor their anycast networks.
 
 
-<div class="col-sm-2 col-sm-offset-0"> 
+<div class="col-sm-8 col-sm-offset-0"> 
     <div class="row text-center">
-    <img style="border: 1px solid #000;" src="/img/usc.png">
-    <img style="border: 1px solid #000;" src="/img/cloud.png">
+    <img style="border: 0px solid #000;" src="/img/usc.png">
+    <img style="border: 0px solid #000;" src="/img/cloud.png">
     </div>
 </div>
 
