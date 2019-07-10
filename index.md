@@ -36,11 +36,13 @@ engineering and DDoS mitigation.
 </div>
 
 <hr>
-<h6>Catchment investigation dashboard:</h6>
+<h6>Problem: </h6> 
+ Anycast relies on BGP protocol that we do not have control.
 <hr>
 
 
 
+<h6>Catchment investigation dashboard:</h6>
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
 
