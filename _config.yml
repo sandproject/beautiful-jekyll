@@ -28,6 +28,7 @@ navbar-links:
   Resources:
     - Anycast TestBed: "http://www.anycast-testbed.com/"
     - Verfploeter: "https://ant.isi.edu/software/verfploeter/index.html"
+  Testbed: "testbed" 
   People: "people" 
   Contact: "contact"
 
