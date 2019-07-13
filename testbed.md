@@ -16,8 +16,7 @@ RIPE NCC.
 IPv4: 145.90.8.0/24 <br>
 IPv4: 145.100.118.0/23 (new) <br>
 IPv6: 2001:678:d0::/48 <br>
-ASN 1133 (temporary being used from the University of Twente) <br>
-ASN 1149 in process of being allocated by RIPE NCC <br>
+<a href="https://apps.db.ripe.net/db-web-ui/#/lookup?source=RIPE&type=route&key=145.100.118.0%2F23AS1149" >ASN 1149 </a>
 
 <br>
 
