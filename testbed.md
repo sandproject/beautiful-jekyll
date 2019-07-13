@@ -17,8 +17,7 @@ IPv4: 145.90.8.0/24 <br>
 IPv4: 145.100.118.0/23 (new) <br>
 IPv6: 2001:678:d0::/48 <br>
 <a href="https://apps.db.ripe.net/db-web-ui/#/lookup?source=RIPE&type=route&key=145.100.118.0%2F23AS1149" >ASN 1149 </a>
-
-<br>
+<hr>
 
 <div class="col-sm-12 col-sm-offset-0">
     <div class="row text-center">
