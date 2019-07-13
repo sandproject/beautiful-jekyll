@@ -13,10 +13,11 @@ either operational or being installed.
 Address prefixes and ASN resources have been allocated by SURFnet and
 RIPE NCC.
 
-IPv4: 145.90.8.0/24
-IPv6: 2001:678:d0::/48
-ASN 1133 (temporary being used from the University of Twente)
-ASN 1149 in process of being allocated by RIPE NCC
+IPv4: 145.90.8.0/24 <br>
+IPv4: 145.100.118.0/23 (new) <br>
+IPv6: 2001:678:d0::/48 <br>
+ASN 1133 (temporary being used from the University of Twente) <br>
+ASN 1149 in process of being allocated by RIPE NCC <br>
 
 <br>
 
