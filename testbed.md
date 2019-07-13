@@ -1,17 +1,17 @@
 ---
 layout: page
-title: SAND Project
+title: Anycast Testbed
 ---
 
-SAND is a collaboration between the University of Twente, SIDN and
-NLNETLAB.
+We do have a testbed!
 
-For more information on the SAND project, please contact:
+<div class="col-sm-12 col-sm-offset-0">
+    <div class="row text-center">
+        <img style="border: 0px solid #000;margin-left:40px" src="/img/testbed.map.png">
+    </div>
+</div>
+<br>
 
-<h4> Joao Marcelo Ceron </h4>
-
-
-[<i class="fa fa-globe" style="font-size:20px">Website</i>](http://www.botlog.org/)
 
 
 
