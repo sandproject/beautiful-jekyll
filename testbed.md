@@ -35,6 +35,7 @@ IPv6: 2001:678:d0::/48 <br>
             <li>Miami, USA</li>
             <li>Washington DC, USA</li>
             <li>São Paulo, Brazil</li>
+            <li>Porto Alegre, Brazil</li>
             <li>Sydney, Australia</li>
             <li>Tokyo, Japan</li>
         </ul>
