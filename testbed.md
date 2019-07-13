@@ -22,7 +22,12 @@ IPv6: 2001:678:d0::/48 <br>
 
 <div class="col-sm-12 col-sm-offset-0">
     <div class="row text-center">
-        <img width="70%" height="70%" style="border: 0px solid #000;margin-left:40px" src="/img/testbed.map.png">
+        <div class="col-md-8 col-sm-8">
+            <img width="70%" height="70%" style="border: 0px solid #000;margin-left:40px" src="/img/testbed.map.png">
+        </div>
+        <div class="col-md-4 col-sm-4">
+        Nodes
+        </div>
     </div>
 </div>
 <br>
