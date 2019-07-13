@@ -24,7 +24,7 @@ IPv6: 2001:678:d0::/48 <br>
         <div class="col-md-8 col-sm-8">
             <img width="100%" height="100%" style="border: 0px solid #000;margin-left:40px" src="/img/testbed.map.png">
         </div>
-        <div class="col-md-4 col-sm-4" style="align:left;text-align: left;margin-top: 00px; ">
+        <div class="col-md-4 col-sm-4" style="align:left;text-align: left;margin-top: 10px; ">
         <ul>
             <li>Enschede, the Netherlands</li>
             <li>London, UK</li><li>Paris, France</li>
