@@ -40,7 +40,6 @@ IPv6: 2001:678:d0::/48 <br>
     </div>
 </div>
 <br>
-
 <hr>
 
 <div class="col-sm-10 col-sm-offset-0">
