@@ -74,7 +74,9 @@ IPv6: 2001:678:d0::/48 <br>
         <div class="col-md-2 col-sm-2">
             <a href="https://surfnet.nl/"><img src="/img/surfnet.png"></a>
         </div>
-
+        <div class="col-md-2 col-sm-2">
+            <a href="https://nwo.nl/"><img src="/img/nwo.png"></a>
+        </div>
     </div>
 </div>
 </div>
