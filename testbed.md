@@ -66,7 +66,7 @@ IPv6: 2001:678:d0::/48 <br>
             <a href="http://www.sidn.nl/"><img src="/img/sidn-logo.png"></a>
             <a href="https://nlnetlabs.nl/"><img src="/img/nlnetlab.png"></a>
             <a href="https://surfnet.nl/"><img src="/img/surfnet.png"></a>
-            <a href="https://nwo.nl/"><img src="/img/nwo.png"></a>
+            <a href="https://nwo.nl/"><img src="/img/nwo.jpg"></a>
     </div>
 </div>
 </div>
