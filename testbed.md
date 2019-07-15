@@ -56,3 +56,30 @@ IPv6: 2001:678:d0::/48 <br>
     We are also thankful to Nat Morris for his support.
    </div>
 </div>
+
+
+<div class="col-sm-10 col-sm-offset-0">
+    <div class="row text-center" style="align:left;text-align: left;margin-top: 10px;">
+<table border="0" cellspacing="0" style="border-collapse:collapse;border-color:rgb(136,136,136);border-width:1px">
+<tbody>
+<tr>
+<td style="width:60px"> <a href="https://www.utwente.nl/en/" imageanchor="1" style="line-height:1.5" target="_blank"><img alt="University of Twente" border="0" height="40" src="http://www.anycast-testbed.com/_/rsrc/1457453520731/consoritum/logo-ut.png?height=40" /></a>
+</td>
+<td style="width:60px">
+<div style="display:block;text-align:left"><a href="https://www.sidnlabs.nl/index?language_id=2" imageanchor="1" target="_blank"><img alt="SIDN Labs" border="0" height="40" src="http://www.anycast-testbed.com/_/rsrc/1457453466209/consoritum/logo%20-%20SIDN%20Labs%20-%20new.png?height=40" /></a></div>
+ </td>
+<td style="width:60px"> <a href="http://www.nlnetlabs.nl/" imageanchor="1" style="line-height:1.5" target="_blank"><img alt="NLnet Labs" border="0" height="40" src="http://www.anycast-testbed.com/_/rsrc/1457453477019/consoritum/logo-nlnet-labs.jpg?height=40" /></a>
+</td>
+<td style="width:60px">
+<div style="display:block;text-align:left"><a href="https://www.surf.nl/en/about-surf/subsidiaries/surfnet" imageanchor="1" target="_blank"><img alt="SURFnet" border="0" height="40" src="http://www.anycast-testbed.com/_/rsrc/1457453562548/consoritum/logo%20-%20surfnet.png?height=40" /></a></div>
+ </td>
+<td style="width:60px">
+<div style="display:block;text-align:left"><a href="http://www.nwo.nl" imageanchor="1" target="_blank"><img alt="SURFnet" border="0" height="40" src="http://www.anycast-testbed.com/_/rsrc/1466413582708/consoritum/NWO-logo-vierkant.jpg?height=40" /></a></div>
+ </td>
+</tr>
+</tbody>
+</table>
+</div>
+
+   </div>
+</div>
