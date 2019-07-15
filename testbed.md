@@ -45,7 +45,7 @@ IPv6: 2001:678:d0::/48 <br>
 
 <div class="col-sm-10 col-sm-offset-0">
     <div class="row text-center" style="align:left;text-align: left;margin-top: 10px;">
-    Some other institutions are supporting our deployments
+    Some other institutions are supporting our deployments:
     <ul>
        <li><a href="https://www.ripe.net/" target="_blank">RIPE NCC</a></li>
        <li><a href="http://www.fiu.edu/" target="_blank">Florida International University</a></li>
