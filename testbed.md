@@ -22,9 +22,9 @@ IPv6: 2001:678:d0::/48 <br>
 <div class="col-sm-12 col-sm-offset-0">
     <div class="row text-center">
         <div class="col-md-8 col-sm-8">
-            <img width="100%" height="100%" style="border: 0px solid #000;margin-left:40px" src="/img/testbed.map.png">
+            <img width="100%" height="100%" style="border: 0px solid #000;margin-left:00px" src="/img/testbed.map.png">
         </div>
-        <div class="col-md-4 col-sm-4" style="align:left;text-align: left;margin-top: 10px; ">
+        <div class="col-md-4 col-sm-4" style="align:left;text-align: left;margin-top: 40px; ">
         <ul style="align:left;text-align: left;margin-top: 10px;>
             <li>Enschede, the Netherlands</li>
             <li>London, UK</li><li>Paris, France</li>
@@ -52,6 +52,6 @@ IPv6: 2001:678:d0::/48 <br>
        <li><a href="http://www.isi.edu/home" target="_blank">USC/Information Sciences Institute</a></li>
        <li><a href="https://www.dk-hostmaster.dk/english" target="_blank">DK Hostmaster</a></li>
     </ul>
-    We are also thankful to <a href="https://www.linkedin.com/in/natmorris" target="_blank">Nat Morris</a> for his support.
+    We are also thankful to Nat Morris for his support.
    </div>
 </div>
