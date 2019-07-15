@@ -62,19 +62,19 @@ IPv6: 2001:678:d0::/48 <br>
 <div class="container-fluid" style="margin: 0% 25% 0% 25%">
 <div class="col-sm-12 col-sm-offset-0">
     <div class="row text-center"><br>
-        <div class="col-md-2 col-sm-2">
+        <div class="col-md-4 col-sm-2">
             <a href="http://www.utwente.nl/"><img src="/img/twente.png"></a>
         </div>
-        <div class="col-md-2 col-sm-2">
+        <div class="col-md-4 col-sm-2">
             <a href="http://www.sidn.nl/"><img src="/img/sidn-logo.png"></a>
         </div>
-        <div class="col-md-2 col-sm-2">
+        <div class="col-md-4 col-sm-2">
             <a href="https://nlnetlabs.nl/"><img src="/img/nlnetlab.png"></a>
         </div>
-        <div class="col-md-2 col-sm-2">
+        <div class="col-md-4 col-sm-2">
             <a href="https://surfnet.nl/"><img src="/img/surfnet.png"></a>
         </div>
-        <div class="col-md-2 col-sm-2">
+        <div class="col-md-4 col-sm-2">
             <a href="https://nwo.nl/"><img src="/img/nwo.png"></a>
         </div>
     </div>
