@@ -14,6 +14,7 @@ For more information on the SAND project, please contact:
 [<i class="fa fa-globe" style="font-size:20px">Website</i>](http://www.botlog.org/)
 
 
+post
 
 <div class="posts-list">
   {% for post in paginator.posts %}
