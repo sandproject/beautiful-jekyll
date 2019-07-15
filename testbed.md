@@ -4,8 +4,10 @@ title: Anycast Testbed
 ---
 
 The anycast research testbed has been created within the context of
-the projects SAND and DAS, a consortium consisting of the University
-of Twente, SIDN Labs, NLnet Labs and SURFnet.
+the project SAND and <a
+href="https://www.utwente.nl/en/eemcs/dacs/">DACS</a>, a consortium
+consisting of the University of Twente, SIDN Labs, NLnet Labs and
+SURFnet.
 
 The testbed currently in expansion and already has several locations
 either operational or being installed.
@@ -28,7 +30,7 @@ IPv6: 2001:678:d0::/48 <br>
             <ul>
                 <li>Enschede, the Netherlands</li>
                 <li>London, UK</li><li>Paris, France</li>
-                <li>Copehagen, Denmark</li>
+                <li>Copenhagen, Denmark</li>
                 <li>Miami, USA</li>
                 <li>Washington DC, USA</li>
                 <li>São Paulo, Brazil</li>
