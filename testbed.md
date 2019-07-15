@@ -36,13 +36,21 @@ IPv6: 2001:678:d0::/48 <br>
             <li>Sydney, Australia</li>
             <li>Tokyo, Japan</li>
         </ul>
-
-
         </div>
     </div>
 </div>
 <br>
 
+<hr>
 
-
-
+<div class="col-sm-10 col-sm-offset-0">
+    <div class="row text-center">
+    <ul>
+       <li><a href="https://www.ripe.net/" target="_blank">RIPE NCC</a></li>
+       <li><a href="http://www.fiu.edu/" target="_blank">Florida International University</a></li>
+       <li><a href="http://www.isi.edu/home" target="_blank">USC/Information Sciences Institute</a></li>
+       <li><a href="https://www.dk-hostmaster.dk/english" target="_blank">DK Hostmaster</a></li>
+    </ul>
+    We are also thankful to <a href="https://www.linkedin.com/in/natmorris" target="_blank">Nat Morris</a> for his support.
+   </div>
+</div>
