@@ -53,9 +53,7 @@ traffic distribution across the anycast nodes.
 
 
 <br>
-<br>
-<br>
-<h6>Cases:</h6>
+<h5>Cases:</h5>
 <hr>
 
 We are proud to say that folks from root-server letter B and
@@ -76,6 +74,8 @@ networks.
 
 <hr>
 
+<br>
+<br>
 <h6>Catchment investigation dashboard:</h6>
 <div class="col-sm-12 col-sm-offset-0"> 
 	<div class="row text-center"><br>
@@ -90,7 +90,7 @@ networks.
 
 
 <div class="col-sm-12 col-sm-offset-0"> 
-	<div class="row"><br>
+	<div class="row" id="news"><br>
         <hr>
    	    <h4>Latest news</h4>
 	</div>
@@ -131,11 +131,15 @@ networks.
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+
+    {% assign new_link = paginator.previous_page_path | append: "#news" %}
+    <a href="{{ new_link | relative_url }}">&larr; Newer Posts</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
+    {% assign new_link = paginator.next_page_path| append: "#news" %}
+    <a href="{{ new_link | relative_url }}">Older Posts &rarr;</a>
     <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
   </li>
   {% endif %}
