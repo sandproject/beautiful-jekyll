@@ -7,4 +7,4 @@ SAND team attended the **2019 S&T Cybersecurity and Innovation Showcase**. The e
 
 [Slides](./pdf/dhs.pdf).
 
-![dhs.png]({{site.baseurl}}/img/dhs.png)
+![dhs.png](http://www.sand-project.nl/pdf/dhs.pdf)
